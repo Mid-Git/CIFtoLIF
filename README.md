@@ -1,2 +1,4 @@
 # CIFtoLIF
-A pipeline for 2D lead iodide perovskites, converting Crystallographic Information Files into LAMMPS Input Files, making high-throughput molecular dynamics simulations possible. Develloped for BSc thesis.
+A pipeline for 2D lead iodide perovskites, converting Crystallographic Information Files into LAMMPS Input Files, making high-throughput molecular dynamics simulations possible. Developed for BSc thesis.
+
+If you are only interested in the CIF to LAMMPS conversion, go directly to "2. Pipeline". "1. Download Cifs" is a folder with a BASH script to automatically download CIFs from the NMSE 2D perovskite database. "3. MD Simulation" is a text file, explaining how the simulations should be executed. Finally, "4. Data Analysis" contains a Jupiter Notebook file, which is used to create different graphs from the MD data. 
