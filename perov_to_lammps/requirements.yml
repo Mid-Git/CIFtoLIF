@@ -1,0 +1,12 @@
+name: CIFtoLIF
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - networkx
+  - pymatgen
+  - rdkit
+  - openbabel
+  - ambertools
+  - python=3.10
+  - numpy

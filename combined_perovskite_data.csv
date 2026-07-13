@@ -1,0 +1,849 @@
+1;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb I 4;1.1;P b c a;100;RP;0.49;0.5;1.99;2.3;Butylammonium;–;*.dia;*.dia.1;CIF;doi: 10.1021/cm9505097;Z_Axis_Direction
+2;[CH 3 (CH 2 ) 3 NH 3 ] 2 Sn I 4;1;P b c a;100;RP;0.49;0.5;1.8;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm9505097;
+3;[CH 3 (CH 2 ) 3 NH 3 ] 2 Ge I 4;1;P n m a;100;else;0.45;0.48;2.11;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm9505097;
+4;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb Br 4;1;P b c a;100;RP;0.49;0.5;2.82;2.92;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpcc.9b01550;
+5;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C m c m ( C c c m );100;RP;0.5;0.5;1.97;1.96;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00847;b
+6;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;C m c a ( A c a m );100;RP;0.5;0.5;1.96;1.86;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00847;b
+7;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 3 Pb 4 I 1 3;4;C m c m ( A c a m );100;RP;0.5;0.5;1.85;1.96;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00847;
+8;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;A m a 2;100;RP;0.5;0.5;1.98;1.96;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00847;b
+9;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 4 Pb 5 I 1 6;5;C m c a ( A c a m );100;RP;0.5;0.5;1.86;1.6;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1016/j.chempr.2017.02.004;b
+10;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 4 Pb 5 I 1 6;5;A b a 2 ( C 2 c b );100;RP;0.48;0.48;1.97;1.6;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1016/j.chempr.2017.02.004;b
+11;[CH 3 CH 2 NH 3 ] 4 Pb 3 Cl 1 0;3;C m c 21;100;else;0.46;0.48;2.64;–;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1524/ncrs.1997.212.1.241;
+12;[CH 3 (CH 2 ) 2 NH 3 ] 2 Mn Cl 4;1;C m c a;100;RP;0.49;0.5;–;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1063/1.1677469;
+13;[CH 3 CH 2 NH 3 ] 4 Pb 3 Br 1 0;3;A b a 2( C 2 c b );100;RP;0.49;0.49;2.61;2.75;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b06143;
+14;[CH 3 CH 2 NH 3 ] 4 Pb 3 Cl 1 0;3;C m c 21 ( A 21 m a );100;else;0.46;0.48;3.31;3.45;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b06143;
+15;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P b c a;100;else;0.47;0.5;2.29;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768107031758;c
+16;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.27;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768107031758;c
+17;[CH 3 (CH 2 ) 4 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.31;0.33;2.37;–;Pentylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768107031758;c
+18;[CH 3 (CH 2 ) 4 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.3;0.3;2.32;–;Pentylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768107031758;c
+19;[CH 3 (CH 2 ) 4 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.29;–;Pentylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768107031758;c
+20;[CH 3 (CH 2 ) 5 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.06;0.06;2.28;–;Hexylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768107031758;c
+21;[CH 3 (CH 2 ) 5 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.29;–;Hexylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768107031758;c
+22;[CH 3 (CH 2 ) 6 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.23;0.24;2.31;–;Heptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+23;[CH 3 (CH 2 ) 6 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.26;–;Heptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+24;[CH 3 (CH 2 ) 6 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.29;–;Heptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+25;[CH 3 (CH 2 ) 7 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.23;0.24;2.38;–;Octylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+26;[CH 3 (CH 2 ) 7 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.28;–;Octylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+27;[CH 3 (CH 2 ) 8 NH 3 ] 2 Pb I 4;1;C m c a ( A c a m );100;RP;0.5;0.5;2.12;–;Nonylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;
+28;[CH 3 (CH 2 ) 8 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.25;0.25;2.35;–;Nonylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+29;[CH 3 (CH 2 ) 8 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.27;–;Nonylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+30;[CH 3 (CH 2 ) 8 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.25;0.27;2.39;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+31;[CH 3 (CH 2 ) 9 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.39;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+32;[CH 3 (CH 2 ) 9 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.39;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+33;[CH 3 (CH 2 ) 9 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.28;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+34;[CH 3 (CH 2 ) 9 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.28;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+35;[CH 3 (CH 2 ) 9 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.5;0.5;2.16;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;
+36;[NH 3 (CH 2 ) 6 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.38;0.41;2.42;2.4;1,6-hexanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/a906161d;a
+37;[NH 3 (CH 2 ) 6 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.39;0.4;2.42;2.99;1,6-hexanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/a906161d;
+38;[NH 3 (CH 2 ) 6 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.38;0.41;2.28;2.44;1,6-hexanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c6ta05055g;a
+39;[NH 3 (CH 2 ) 8 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.43;0.47;2.34;2.55;1,8-octanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c6ta05055g;a
+40;[NH 3 (CH 2 ) 1 2 NH 3 ]Pb I 4;1;P 21/ c;100;DJ;0;0;2.32;2.43;1,12-dodecanediammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.matchemphys.2010.07.037;a
+41;[NH 3 (CH 2 ) 4 NH 3 ]Pb Br 4;1;P -1;100;else;0.16;0.31;2.76;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;
+42;[NH 3 (CH 2 ) 4 NH 3 ]Pb I 4;1;C 2/ c;100;else;0.18;0.22;2.2;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;
+43;[NH 3 (CH 2 ) 7 NH 3 ] 4 Pb 3 I 1 4;–;P -1;;–;–;–;2.17;–;1,7-heptanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;
+44;[NH 3 (CH 2 ) 8 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.44;0.47;2.37;–;1,8-octanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;a
+45;[NH 3 (CH 2 ) 1 0 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.2;0.22;2.84;–;1,10-decanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;
+46;[NH 3 (CH 2 ) 1 2 NH 3 ]Pb I 4;1;P 21/ c;100;DJ;0.01;0.01;2.36;–;1,12-dodecanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;a
+47;[NH 3 C 1 0 H 6 NH 3 ]Pb I 4;1;P 21/ c;100;DJ;0.01;0.01;2.29;–;Naphthalene-1,5-diamine;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;a
+48;[[NH 3 (CH 2 ) 2 NH 3 ] 4 Pb 2 Br 9 ] Br 3;–;P 21/ c;;DJ;0;0;2.8;–;1,2-ethanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;
+49;[NH 3 C 6 H 4 CH 2 C 6 H 4 NH 3 ]Pb I 6;–;F d d 2;;–;–;–;2.23;–;Diphenylmethane - 4,4'-diammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c2ce06498g;b
+50;[NH 3 (CH 2 ) 8 NH 3 ][CH 3 NH 3 ]Pb 2 I 7;2;C c;100;RP;0.5;0.5;1.94;2.02;1,8-octanediammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b07712;a
+51;[NH 3 (CH 2 ) 8 NH 3 ][CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P c;100;RP;0.5;0.5;1.88;1.83;1,8-octanediammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b07712;a
+52;[NH 3 (CH 2 ) 8 NH 3 ][CH 3 NH 3 ] 3 Pb 4 I 1 4;4;C c;100;RP;0.5;0.5;1.82;1.7;1,8-octanediammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b07712;a
+53;[NH 3 (CH 2 ) 9 NH 3 ]Pb I 4;1;C c;100;else;0.42;0.42;2.29;2.27;1,9-nonanediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b07712;a
+54;[NH 3 (CH 2 ) 9 NH 3 ][CH 3 NH 3 ]Pb 2 I 7;2;C c;100;RP;0.5;0.5;1.92;1.96;1,9-nonanediammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b07712;a
+55;[NH 3 (CH) 9 NH 3 ][CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P c;100;RP;0.5;0.5;1.87;1.81;1,9-nonanediammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b07712;a
+56;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb Br 4;1;P b c a;100;RP;0.49;0.5;2.82;3.07;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+57;[CH 3 (CH 2 ) 3 NH 3 ] 2 Sn I 4;1;P b c a;100;RP;0.49;0.5;1.77;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+58;[NH 3 (CH 2 ) 2 NH 2 CH 3 ]Pb Br 4;–;P 212121;110;else;0.19;0.47;2.85;3.12;N1-methylethane-1,2-diammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ja411045r;
+59;[NH 3 (CH 2 ) 3 NH 2 CH 3 ]Pb Br 4;1;P 21/ c;100;else;0.03;0.45;2.55;2.88;N1-methylpropane-1,3-diammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ja411045r;
+60;[(CH 3 ) 2 NH(CH 2 ) 2 NH 3 ]Pb Br 4;–;P b c a;corru- gated 3x3;else;0.03;0.1;2.62;–;2-(dimethylamino)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b01312;
+61;[C(NH 2 ) 3 ][CH 3 NH 3 ] 3 Pb 3 I 1 0;3;I m m a;100;else;0;0.49;1.83;1.56;Guanidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b09096;c
+62;[C(NH 2 ) 3 ][CH 3 NH 3 ] 2 Pb 2 I 7;2;A m m a;100;else;0;0.49;1.91;1.79;Guanidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b09096;c
+63;[C(NH 2 ) 3 ][CH 3 NH 3 ]Pb I 4;1;I m m a;100;else;0;0.48;2.04;–;Guanidinium, Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b09096;
+64;[C(NH 2 ) 3 ][CH(NH 2 ) 2 ]Pb I 4;–;C 2/ m;corru- gated 3x2;else;0;0.1;2.11;2.32;Guanidinium, Formamidinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00194;
+65;[NH 3 (CH 2 ) 2 SS(CH 2 ) 2 NH 3 ] 4 Pb 3 I 1 4 * I 2;–;P 21/ c;;DJ;0;0;2.16;–;2,2'-dithiobisethanammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b617225c;
+66;[NH 3 (CH 2 ) 2 O (CH 2 ) 2 O (CH 2 ) 2 NH 3 ]Pb Cl 4;1;C 2;100;else;0.37;0.38;3.38;3.34;1,8-Diamino-3,6-dioxaoctane;–;*.dia;*.dia;CIF;doi: 10.1021/ja507086b;
+67;[NH 3 (CH 2 ) 2 O (CH 2 ) 2 O (CH 2 ) 2 NH 3 ]Pb Br 4;1;P 21/ c;110;else;0;0.28;2.82;3.21;1,8-Diamino-3,6-dioxaoctane;–;*.dia;*.dia;CIF;doi: 10.1021/ja507086b;
+68;[NH 3 (CH 2 ) 2 O (CH 2 ) 2 O (CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ c;110;else;0.04;0.28;2.26;2.48;1,8-Diamino-3,6-dioxaoctane;–;*.dia;*.dia;CIF;doi: 10.1021/ja507086b;b
+69;[NH 3 (CH 2 ) 2 SC(NH 2 )NH 3 ]Pb Br 4;1;P 21/ c;100;DJ;0;0.02;2.74;3.44;2-(aminoethyl)isothiourea protonated;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.200700927;
+70;[CHC(CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.09;0.1;2.88;–;4-amino-1-butyne protonated;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201309786;
+71;[ I CHC( I )(CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P -1;100;else;0.11;0.24;2.79;–;4-amino-1,2-diiodo-1-butene protonated;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201309786;
+72;[CH 2 CH(CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.18;0.18;2.77;–;4-aminobutylene protonated;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201309786;
+73;[ F (CH 2 ) 2 NH 3 ] 2 Pb Cl 4;1;P n m a;100;else;0.25;0.29;3.34;3.27;2-fluoroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b02151;
+74;[(CH 3 ) 2 CHCH 2 NH 3 ] 2 [Pb Br 4 ];1;P 21/ c;100;–;–;–;2.83;–;Isobutylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c5dt03277f;
+75;[(CH 3 ) 2 CHCH 2 NH 3 ] 2 [Pb Br 4 ];1;C m c a;100;RP;0.5;0.5;2.84;–;Isobutylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c5dt03277f;
+76;[H O (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.21;0.21;2.16;–;Ethanolammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;a
+77;[H O (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.06;0.06;2.14;–;3-aminopropanol protonated;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;a
+78;[ I (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.2;0.2;2.37;–;2-iodoethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;
+79;[ I (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.25;0.27;2.29;–;3-iodopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;
+80;[ I (CH 2 ) 4 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.06;0.06;2.28;–;4-iodobutylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;
+81;[ I (CH 2 ) 5 NH 3 ] 2 Pb I 4;1;P 21/ c;100;DJ;0;0;2.22;–;5-iodopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;
+82;[ I (CH 2 ) 6 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.22;–;6-iodohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;
+83;[ Br (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P n m a;100;else;0.12;0.43;2.13;–;2-bromoethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;
+84;[NH 3 (CH 2 ) 2 SS(CH 2 ) 2 NH 3 ] 2 Pb 2 I 8;1;P 21/ c;100;else;0.02;0.3;2.32;–;2,2'-dithiobisethanammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;c
+85;[NH 3 (CH 2 ) 2 SS(CH 2 ) 2 NH 3 ] 2 Pb I 4 * I 2;–;P 21/ c;;DJ;0;0;2.17;–;2,2'-dithiobisethanammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917824d;
+86;[C 3 H 5 NH 3 ] 2 Pb I 4;1;P 21/ c;100;RP;0.49;0.5;2.31;–;Сyclopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;a
+87;[C 3 H 5 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.46;0.49;2.85;–;Сyclopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+88;[C 4 H 7 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.46;0.49;2.87;–;Cyclobutylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+89;[C 5 H 9 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.42;0.47;2.78;–;Cyclopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+90;[C 6 H 1 1 NH 3 ] 2 Pb Br 4;1;C m c 21;100;else;0.46;0.47;2.91;–;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+91;[C 7 H 1 3 NH 3 ] 3 Pb Br 5 * H 2 O;–;C m c 21;;DJ;0;0;2.86;–;Cycloheptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+92;[C 8 H 1 5 N 3 ] 1 0 Pb 4 Br 1 8;–;P -1;;DJ;0;0;2.8;–;Cyclooctylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+93;[C 3 H 5 NH 3 ] 2 Pb Cl 4;1;P 21/ c;100;else;0.46;0.49;3.37;–;Сyclopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+94;[C 4 H 7 NH 3 ] 2 Pb Cl 4;1;P 21/ c;100;else;0.44;0.47;3.42;–;Cyclobutylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+95;[C 5 H 9 NH 3 ] 2 Pb Cl 4;1;C m c a;100;else;0.45;0.5;3.36;–;Cyclopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+96;[C 6 H 1 1 NH 3 ] 4 Pb 2 Cl 8;1;P 21/ m;100;else;0.31;0.33;3.41;–;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+97;[C 7 H 1 3 NH 3 ] 1 7 Pb 7 Cl 3 1 *2 H 2 O;–;P 21;;DJ;0;0;3.37;–;Cycloheptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+98;[C 8 H 1 5 NH 3 ] 1 8 Pb 1 1 Cl 4 0;–;P -1;;else;0.01;0.04;3.33;–;Cyclooctylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b819455f;
+99;[C 6 H 1 0 CH 2 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.33;0.33;2.82;–;Cyclohexylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601269;
+100;[NH 2 (C 2 H 4 ) 2 NH 2 ]Pb Cl 4;1;P 21/ c;110;else;0.07;0.35;2.64;–;Piperazinium;–;*.dia;*.dia;CIF;doi: 10.1021/ic000319k;
+101;[NH 2 (C 2 H 4 ) 2 NHСH 2 C 6 H 5 ] 3 Pb 2 Br 1 0 *2 H 2 O;–;P 21/ c;;DJ;0;0;2.72;–;N-Benzylpiperazinium;–;*.dia;*.dia;CIF;doi: 10.1021/ic000319k;
+102;[C 5 H 1 1 NCH 2 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.19;0.21;2.15;2.23;3-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;c
+103;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ]Pb 2 I 7;2;C c;100;DJ;0;0;2.01;2.02;3-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;c
+104;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P c;100;DJ;0;0;1.94;1.92;3-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;c
+105;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ] 3 Pb 4 I 1 3;4;C c;100;DJ;0;0;1.9;1.87;3-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;c
+106;[C 5 H 1 1 NCH 2 NH 3 ]Pb I 4;1;P c;100;DJ;0;0;2.18;2.38;4-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;a
+107;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ]Pb 2 I 7;2;C c;100;DJ;0;0;2.02;2.17;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;c
+108;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P 1;100;DJ;0;0;1.97;1.99;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;a
+109;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ] 3 Pb 4 I 1 3;4;C c;100;DJ;0;0;1.91;1.89;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b00542;c
+110;[(C 6 H 1 1 )PH 3 ] 2 Sn I 4;1;P b c a;100;RP;0.48;0.5;–;–;Cyclohexylphosphonium;–;*.dia;*.dia;CIF;doi: 10.1039/b917722a;
+111;[NH 3 CH 2 C 6 H 1 0 CH 2 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.14;0.14;2.31;–;4,4'-bipyridine;–;*.dia;*.dia;CIF;doi: 10.1107/S160053681001682X;a
+112;[C 6 H 5 CH 2 NH 3 ]Pb Cl 4;1;C m c 21;100;else;0.46;0.48;3.52;3.65;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+113;[C 6 H 5 CH 2 NH 3 ]Pb Cl 4;1;C m c 21;100;else;0.46;0.48;3.52;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+114;[C 6 H 5 CH 2 NH 3 ]Pb Cl 4;1;C m c 21;100;else;0.47;0.48;3.51;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+115;[C 6 H 5 CH 2 NH 3 ]Pb Cl 4;1;C m c 21;100;else;0.45;0.47;3.53;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+116;[C 6 H 5 CH 2 NH 3 ]Pb Cl 4;1;C m c 21;100;else;0.47;0.48;3.48;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+117;[C 6 H 5 CH 2 NH 3 ]Pb Cl 4;1;C m c a;100;RP;0.49;0.5;3.43;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+118;[C 6 H 5 CH 2 NH 3 ]Pb Cl 4;1;C m c 21;100;else;0.45;0.47;3.52;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+119;[C 6 H 5 CH 2 NH 3 ]Pb Br 4;1;C m c a;100;RP;0.5;0.5;2.88;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+120;[C 6 H 5 CH 2 NH 3 ]Pb Br 4;1;C m c a;100;RP;0.5;0.5;2.87;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+121;[C 6 H 5 CH 2 NH 3 ]Pb Br 4;1;C m c a;100;RP;0.5;0.5;2.88;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+122;[C 6 H 5 CH 2 NH 3 ]Pb Br 4;1;C m c a;100;RP;0.5;0.5;2.88;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/ncomms8338;
+123;[C 6 H 5 CH 2 NH 3 ] 2 Pb Cl 4;1;C m c 21;100;else;0.46;0.48;3.01;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b204766g;
+124;[C 6 H 5 CH 2 NH 3 ] 2 Pb I 4;1;P b c a;100;else;0.47;0.5;2.28;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00809;c
+125;[C 6 H 5 (CH 2 ) 3 NH 3 ] 3 Pb 2 I 7;–;P c a 21;corru- gated 3x2;else;0.02;0.04;2.31;–;Phenylpropylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00809;c
+126;[C 6 H 5 (CH 2 ) 4 NH 3 ] 3 Pb 2 I 7;–;P -1;;else;0.06;0.11;2.29;–;Phenylbutylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00809;c
+127;[C 4 H 3 S(CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C c;100;else;0.04;0.49;2.25;2.26;2-(2-thienyl)ethanaminium;–;*.dia;*.dia;CIF;doi: 10.1016/j.solidstatesciences.2016.08.014;c
+128;[C 3 H 4 N 2 (CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.09;0.41;2.04;2.05;Histammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b03054;b
+129;[C 3 H 4 N 2 (CH 2 ) 2 NH 3 ]Sn I 4;1;P 21/ c;100;else;0.18;0.39;2.04;1.67;Histammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b03054;
+130;[C 6 H 5 CH 2 NH 3 ] 2 Pb I 4;1;P b c a;100;else;0.47;0.5;2.27;2.18;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b03054;c
+131;[C 6 H 5 CH 2 NH 3 ] 2 Sn I 4;1;P b c a;100;RP;0.48;0.5;2.03;1.85;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b03054;
+132;[C 4 H 3 SCH 2 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;A b a 2;100;RP;0.5;0.5;2.39;2.21;2-(2-thienyl)methylaminium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1039/b205543k;
+133;[C 4 H 3 SCH 2 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.2;2.41;2-(2-thienyl)methylaminium;–;*.dia;*.dia;CIF;doi: 10.1039/b205543k;
+134;[C 5 H 1 1 NCH 2 NH 3 ]Pb Br 4;–;P 21/ c;;else;0.01;0.16;2.76;–;4-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1016/j.solidstatesciences.2007.06.011;
+135;[C 5 H 1 1 NCH 2 NH 3 ]Pb Br 4;–;P b c a;;–;–;–;2.77;2.67;3-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1016/j.solidstatesciences.2007.06.011;
+136;[C 5 H 1 1 NCH 2 NH 3 ]Pb Br 4;1;P b c a;100;else;0.24;0.26;2.68;2.63;2-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1016/j.solidstatesciences.2007.06.011;
+137;[ Br C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P 21/ c;100;else;0.11;0.12;2.26;2.09;2-bromophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic0261474;
+138;[(CH 3 ) 2 NHC 6 H 4 NH 3 ]Pb Cl 4;1;P 21/ c;100;else;0.26;0.31;3.39;–;N,N-Dimethylbenzene-1,4-diammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b713261a;
+139;[NH 3 C 6 H 4 NH 3 ]Pb Cl 4;1;P 2/ c;100;else;0.09;0.1;3.37;–;m-phenylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b713261a;
+140;[(CH 3 ) 2 NHC 6 H 4 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.2;0.25;2.77;2.99;N,N-Dimethylbenzene-1,4-diammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b02285;
+141;[NH 2 C(NH 2 )C 5 H 4 NH]Pb Br 4;1;C 2/ c;;else;0.39;0.45;2.65;2.66;3-amidinopyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/cg800047p;
+142;[NH 2 C(NH 2 )C 5 H 4 NH]Pb Br 4;–;P b c a;100;else;0.21;0.21;2.74;2.66;4-amidinopyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/cg800047p;
+143;[C 6 H 5 CH 2 NH 3 ] 2 Pb Br 4;1;C m c 21;100;RP;0.5;0.5;2.91;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01094;
+144;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.14;0.5;2.06;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01094;
+145;[C 1 0 H 7 CH 2 NH 3 ] 2 Pb Br 4;1;C m c 21;100;else;0.47;0.5;2.94;–;1-(2-naphthyl)-methanammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01094;
+146;[C 1 0 H 7 (CH 2 ) 2 NH 3 ] 2 Pb I 4 4;1;P c;100;else;0.29;0.37;2.15;–;2-(2-naphthyl)-ethanammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01094;
+147;[C 1 0 H 7 (CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P 1;100;else;0.27;0.5;2.71;–;2-(2-naphthyl)-ethanammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01094;
+148;[C 7 H 7 N 2 ] 2 Pb I 4;1;C 2/ c;100;else;0.19;0.39;2.22;–;Benzimidazolium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.201600371;a
+149;[C 7 H 7 N 2 ] 2 Pb Cl 4;1;C 2/ c;100;else;0.11;0.25;3.22;3.08;Benzimidazolium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.201600372;
+150;[C 7 H 7 N 2 ]Pb I 3;–;P 212121;;DJ;0;0;2.27;2.44;Benzimidazolium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.201600373;c
+151;[C 7 H 7 N 2 ] 2 Pb Br 4;1;C 2/ c;100;else;0.15;0.28;2.67;2.6;Benzimidazolium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.201600373;
+152;[С 1 0 H 7 0 O (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C c;100;else;0.41;0.43;2.32;2.39;Naphthalene-O-ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b03659;c
+153;[С 1 0 H 7 0 O (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.24;0.26;2.42;2.57;Naphthalene-O-propylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b03659;a
+154;[С 1 0 H 7 0 O (CH 2 ) 3 NH 3 ] 2 Pb I 4 *0.5(C 4 H 6 O 2 );1;P -1;100;else;0.08;0.24;2.26;2.35;Naphthalene-O-ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b03659;
+155;[С 1 6 H 9 O (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C c;100;else;0.41;0.42;2.32;2.38;Pyrene-O-ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b03659;c
+156;[С 1 6 H 9 O (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;C c;100;else;0.2;0.27;2.35;2.27;Pyrene-O-propylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b03659;a
+157;[С 1 6 H 9 O (CH 2 ) 4 NH 3 ] 2 Pb I 4;1;C 2/ c;100;else;0.02;0.5;2.27;2.4;Pyrene-O-butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b03659;
+158;[С 2 0 H 1 1 O (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.22;0.23;2.35;2.41;Perylene-O-ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b03665;a
+159;[NH 3 (CH 2 ) 2 S(C 4 H 3 S) 2 S(CH 2 ) 2 NH 3 ]Pb I 4;1;P -1;100;else;0.22;0.34;2.3;2.51;5-ammoniumethylsulfanyl-2,2'-bithiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic034235y;
+160;[(C 4 H 3 S) 2 S(CH 2 ) 2 NH 3 ] 4 Pb 3 I 1 0;–;P n a 21;;DJ;0.01;0.02;2.31;2.6;5,5'-bis(ammoniumethylsulfanyl)- 2,2'-bithiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic034235y;
+161;[(C 4 H 3 S) 2 S(CH 2 ) 2 NH 3 ] 4 Bi 2 I 9;–;P 212121;;–;–;–;2.22;2.18;5,5'-bis(ammoniumethylsulfanyl)- 2,2'-bithiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic034235y;
+162;[ F C 6 H 5 CH 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.12;0.28;2.25;2.33;4-fluorophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01564;c
+163;[C 3 H 3 N 2 (CH 2 ) 3 NH 3 ]Pb Br 4;1;P 21/ c;110;else;0;0.14;2.82;2.9;N-(3-aminopropyl)imidazole;–;*.dia;*.dia;CIF;doi: 10.1021/cm060714u;
+164;[C 7 H 7 N 2 ] 2 Sn I 4;1;C 2/ c;100;else;0.2;0.39;2.01;–;Benzimidazolium;–;*.dia;*.dia;CIF;doi: 10.1107/S1600536814019151;
+165;[ Cl C 6 H 5 CH 2 NH 3 ] 2 Pb I 4;1;P 21;100;else;0.19;0.19;2.31;2.33;4-chlorophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01564;
+166;[C 3 H 5 N 2 ]Sn I 3;–;P c;;–;–;–;2.24;2.2;Imidazolium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b02764;
+167;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P -1;100;else;0.16;0.47;2.83;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S160053680903712X;
+168;[C(NH 2 ) 3 ]Pb I 3;–;P n m a;;DJ;0;0;2.79;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/chem.201804066;c
+169;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ] 6 Pb 7 I 2 2;7;P c;100;DJ;0;0;1.9;1.53;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1016/j.chempr.2019.07.024;a
+170;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 5 Pb 6 I 1 9;6;A m a 2;100;RP;0.49;0.5;1.83;1.59;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1073/pnas.1811006115;b
+171;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 6 Pb 7 I 2 2;7;A b a 2;100;RP;0.48;0.48;2.07;1.57;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1073/pnas.1811006115;b
+172;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.02;0.5;2.15;–;2-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-019-08980-x;
+173;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C 2/ c;100;else;0.32;0.48;2.13;–;3-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-019-08980-x;
+174;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C 2/ c;100;else;0.29;0.3;2.12;–;4-fluorophenylethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b01336;
+175;[ Br C 6 H 5 CH 2 NH 3 ] 2 Pb I 4;1;P 21;100;else;0.16;0.17;2.33;2.28;4-bromophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01564;
+176;[ I C 6 H 5 CH 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.44;0.45;2.22;2.29;4-iodophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01564;
+177;[C(NH 2 ) 3 ]Pb I 3;–;P 63/ m m c;;–;–;–;2.01;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/chem.201804066;c
+178;[C(NH 2 ) 3 ] 3 Pb I 5;–;C m c 21;;else;0;0.04;2.18;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/chem.201804066;c
+179;[C(NH 2 ) 3 ] 3 Pb I 5;–;P -4 m 2;;else;0;0.46;2.2;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/chem.201804066;
+180;[C(NH 2 ) 3 ] 4 Pb I 6;–;P 2/ c;;–;–;–;2.14;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/chem.201804066;b
+181;[C(NH 2 ) 3 ] 2 Pb Br 4;–;P -1;;DJ;0;0;2.67;3.62;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01204;
+182;Cs 2 [C(NH 2 ) 3 ]Pb 2 Br 7;2;C m m m;100;–;–;–;2.54;2.58;Guanidinium, Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01204;
+183;Cs[C(NH 2 ) 3 ]Pb Br 4;1;I m m a;100;–;–;–;2.56;2.65;Guanidinium, Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01204;
+184;Cs[C(NH 2 ) 3 ]Pb I 4;1;P n n m;100;–;–;–;2.16;2.14;Guanidinium, Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01204;b
+185;Cs[C(NH 2 ) 3 ]Pb I 4;1;P n n m;100;–;–;–;2.13;2.14;Guanidinium, Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01204;
+186;CsPb 2 Br 5;–;I4/ m c m;not prvsk;–;–;–;2.4;3.44;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01204;
+187;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.29;0.3;2.34;–;4-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-019-08980-x;a
+188;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 1;100;else;0.02;0.5;2.11;–;2-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-019-08980-x;
+189;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 1;100;else;0.32;0.48;2.11;–;3-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-019-08980-x;
+190;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P 21/ c;100;else;0.28;0.29;2.03;–;4-fluorophenylethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b01336;
+191;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 2 ] 2 Pb 3 I 1 0;3;P 21/ c;100;else;0.26;0.27;1.98;–;4-fluorophenylethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b01336;
+192;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.31;0.32;2.28;–;4-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b01336;a
+193;[C(NH 2 ) 3 ] 2 Sn I 4;1;P m n a;100;DJ;0;0;2;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601499;
+194;[C(NH 2 ) 3 ] 2 Sn I 4;1;P n n m;110;DJ;0;0.01;2.08;2.06;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601499;
+195;[C(NH 2 ) 3 ] 2 Sn I 4;1;P 21/ c;110;else;0.01;0.06;1.98;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601499;
+196;[C(NH 2 ) 3 ] 2 Sn I 4;1;P -1;110;else;0.03;0.06;1.99;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601499;
+197;[C(NH 2 ) 3 ] 2 Pb I 4;1;P m n a;100;DJ;0;0;2.01;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601499;b
+198;[C(NH 2 ) 3 ] 2 Pb I 4;1;P n n m;110;DJ;0;0.01;2.18;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601499;a
+199;[C(NH 2 ) 3 ] 2 Pb I 4;1;P 21/ c;110;else;0.01;0.1;2.01;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201601499;b
+200;[C 3 H 5 N 2 ][C(NH 2 ) 3 ]Pb Br 4;1;P -1;110;else;0.09;0.2;2.63;–;Imidazolium, Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1039/C9CC04964A;
+201;[C 2 H 4 N 3 ][C(NH 2 ) 3 ]Pb Br 4;1;P 21/ c;110;else;0.21;0.27;2.82;–;1,2,4-triazolium, Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1039/C9CC04964A;
+202;[C 2 H 4 N 3 ][C(NH 2 ) 3 ]Pb Br 4;1;P 2/ c;110;–;–;–;2.72;2.88;1,2,4-triazolium, Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1039/C9CC04964A;
+203;[C 3 H 5 N 2 ][C(NH 2 ) 3 ]Pb Br 4;1;P -1;110;else;0.06;0.13;2.63;2.77;Imidazolium, Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1039/C9CC04964A;
+204;[CH 3 (CH 2 ) 4 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C m c m;100;RP;0.49;0.5;1.94;2.14;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+205;[CH 3 (CH 2 ) 4 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C 2/ c;100;else;0.28;0.28;2.06;2.1;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+206;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C m c m;100;RP;0.5;0.5;1.94;2.09;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+207;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;P -1;100;else;0.28;0.29;1.99;2.09;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+208;[CH 3 (CH 2 ) 4 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;P 21/ m;100;else;0.29;0.3;2.02;2.1;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+209;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;C m c a;100;RP;0.5;0.5;1.87;1.96;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+210;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P -1;100;else;0.28;0.28;1.9;1.96;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+211;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 3 Pb 4 I 1 3;4;C m c m;100;RP;0.5;0.5;1.84;1.85;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+212;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 3 Pb 4 I 1 3;4;P -1;100;else;0.28;0.29;1.9;1.85;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+213;[CH 3 (CH 2 ) 5 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C m c m;100;RP;0.5;0.5;1.9;2.09;Hexylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+214;[CH 3 (CH 2 ) 5 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C 2/ c;100;else;0.13;0.13;2.09;2.09;Hexylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+215;[CH 3 (CH 2 ) 3 NH 3 ] 2 [HC(NH 2 ) 2 ]Pb 2 I 7;2;C m c m;100;RP;0.5;0.5;1.93;2.12;Butylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+216;[CH 3 (CH 2 ) 3 NH 3 ] 2 [HC(NH 2 ) 2 ]Pb 2 I 7;2;P -1;100;else;0.28;0.28;2.02;2.12;Butylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01318;
+217;[СH 3 NHNH 3 ] 2 Pb I 4;1;P -1;100;else;0.12;0.49;2.04;–;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b03775;a
+218;[СH 3 NHNH 3 ] 2 Pb I 4;1;P c c n;100;else;0.14;0.48;2.07;2.12;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b03775;
+219;[СH 3 NHNH 3 ] 2 Pb I 4;1;P m m n;100;else;0.17;0.5;1.97;–;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b03775;
+220;[СH 3 NHNH 3 ] 2 Pb I 4;1;P m m n;100;else;0.17;0.5;2.12;–;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b03775;
+221;[CH 3 (CH 2 ) 3 CH(C 2 H 5 )CH 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.2;0.2;2.31;2.38;2-ethyl-hexylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C8SC03863E;a
+222;[CH 3 (CH 2 ) 4 CH(CH 3 )NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.43;0.46;2.28;2.39;1-methyl-hexylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C8SC03863E;a
+223;[(C 5 H 8 )NH 3 ]Pb I 4;1;P 21/ c;100;else;0.45;0.49;2.29;2.51;1-methyl-butylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C8SC03863E;a
+224;[CH 3 CH 2 CH(CH 3 )NH 3 ] 2 Pb I 4;1;P 42/ n c m;100;RP;0.5;0.5;2.08;2.4;1-methyl-propylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C8SC03863E;
+225;[ Cl C 6 H 5 CH 2 NH 3 ] 2 Pb I 4;1;P 21;100;else;0.18;0.18;2.35;–;4-chlorophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S2052520615019885;
+226;[C 5 H 5 NC 5 H 5 N]Pb I 4;–;I2/ a;;DJ;0;0;2.17;–;4,4'-bipyridine;–;*.dia;*.dia;CIF;doi: 10.1107/S2052520615019885;a
+227;[C 5 H 5 NC 5 H 5 N]Pb 2 I 6 *2DMS O;–;P b c a;;DJ;0;0;2.21;–;4,4'-bipyridine;–;*.dia;*.dia;CIF;doi: 10.1107/S2052520615019885;a
+228;[C 5 H 5 N(CH 2 ) 2 C 5 H 5 N]Pb I 2 6 *2DM F;–;P 21/ c;;else;0.04;0.33;2.27;–;4,4'-Ethylenedipyridine;–;*.dia;*.dia;CIF;doi: 10.1107/S2052520615019885;
+229;[C 5 H 5 N(CH 2 ) 2 C 5 H 5 N]Pb 2 I 6 * 4 DMS O;–;P 21/ c;;else;0.06;0.15;2.28;–;4,4'-Ethylenedipyridine;–;*.dia;*.dia;CIF;doi: 10.1107/S2052520615019885;c
+230;[C 3 H 5 N 2 ]Pb I 3;–;P 63/ m;;else;0.01;0.06;2.09;–;Imidazolium;–;*.dia;*.dia;CIF;doi: 10.1107/S2052520615019885;c
+231;[NH 2 (C 2 H 4 ) 2 NH 2 ] 2 Pb I 6;–;P 2/ n;;–;–;–;2.19;–;Piperazinium;–;*.dia;*.dia;CIF;doi: 10.1107/S2052520615019885;c
+232;[C 6 H 1 1 NH 3 ]Pb Br 4;1;C m c 21;100;else;0.46;0.47;2.52;–;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpcc.5b06211;
+233;[H O O CC 6 H 1 0 CH 2 NH 3 ]Sn I 4;1;C m c a;100;RP;0.49;0.5;1.82;–;;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+234;[ I (CH 2 ) 3 NH 3 ] 2 Sn I 4;1;P 21/ c ( P 21/ a );100;else;0.07;0.07;1.65;–;3-iodopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+235;[H O O C(CH 2 ) 3 NH 3 ] 2 Sn I 4;1;P b c a;100;RP;0.48;0.5;1.66;–;γ-Aminobutyric acid protonated;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+236;[C 5 H 1 1 N(CH 2 ) 2 NH 3 ]Sn I 4;1;P 21/ c;100;else;0.21;0.26;1.87;–;1-(aminoethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+237;[ I C 5 H 5 N] 2 Sn I 4;1;P n m a;100;DJ;0;0;1.92;–;3-iodopyridine;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+238;[NH 3 (CH 2 ) 5 NH 3 ]Sn I 4;1;C 2/ c;100;else;0.22;0.33;1.85;–;1,5-pentyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+239;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;C 2/ m;100;else;0.18;0.5;1.77;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+240;[ Cl C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;C 2/ m;100;else;0.02;0.5;1.79;2;2-chlorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic0261474;
+241;[ F 2 C 7 H 7 N 2 ] 2 Sn I 4;1;P -1;100;DJ;0;0.01;2.03;–;5,6-difluorobenzimidazolium;–;*.dia;*.dia;CIF;doi: 10.1107/S1600536814019151;
+242;[CH 3 (CH 2 ) 1 1 NH 3 ]Pb I 3;–;P -1;100;DJ;0;0.01;1.95;1.87;n-dodecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic0347081;
+243;[CH 3 (CH 2 ) 1 1 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.05;2.03;n-dodecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic0347081;
+244;[C(NH 2 ) 3 ] 3 [CH 3 C 3 H 4 N 2 ]Sn 2 I 8;–;P -1;110;else;0.1;0.16;2.09;–;1-methylimidazolium, Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1039/D0CC00549E;
+245;[( 2 , 3 -C 4 H 4 S(CH 3 )- 2 , 5 -C 4 H 4 S) 2 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P 1;100;else;0.32;0.49;2.09;1.89;2-(3''',4'-dimethyl- [2,2':5',2'':5'',2'''-quaterthiophen]-5-yl)ethan-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06276;
+246;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P -1;100;else;0.19;0.5;1.9;1.88;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06276;
+247;[(CH 3 ) 3 N(CH 2 ) 2 NH 3 ]Sn I 4;1;С m c a;100;DJ;0;0;1.94;1.85;2-trimethylammoniumethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic0261981;
+248;[(C 3 H 6 N 2 ) 2 ]Pb I 4;1;C 2/ c;100;else;0.09;0.39;2.11;–;2,2'-biimidazolium;–;*.dia;*.dia;CIF;doi: 10.1039/b007639m;c
+249;[(C 3 H 6 N 2 ) 2 ]Sn I 4;1;C 2/ c;100;else;0.02;0.46;2.09;–;2,2'-biimidazolium;–;*.dia;*.dia;CIF;doi: 10.1039/b007639m;
+250;[CH 3 (CH 2 ) 3 NH 3 ] 2 Sn I 4;1;P b c a;100;else;0.47;0.5;2.04;1.92;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.7b03293;
+251;[C 6 F 5 (CH 2 ) 2 NH 3 ] [С 1 0 H 7 (CH 2 ) 2 NH 3 ]Sn I 4;1;C 2/ c;100;else;0.38;0.49;1.81;1.89;2,3,4,5,6-pentafluorophenethylammonium, 2-naphthyleneethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm034267j;
+252;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;C 2/ c;100;else;0.11;0.5;2.03;2.01;2-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm010105g;
+253;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;C 2/ c;100;else;0.32;0.48;2.03;1.97;3-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm010105g;
+254;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P 21 c;100;else;0.29;0.29;2.09;1.93;4-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm010105g;
+255;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Sn 3 I 1 0;3;C m c a;100;RP;0.5;0.5;1.78;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1038/369467a0;
+256;[ I C(NH 2 ) 2 ][CH 3 NH 3 ]Sn I 4;–;P 21/ m;110;else;0;0.12;2.03;–;Iodoformamidinium, Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1126/science.267.5203.1473;
+257;[C(NH 2 ) 3 ] 2 Sn I 4;–;P 21/ c;100;–;–;–;2.22;2.1;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b02764;
+258;Cs 4 CuSb 2 Cl 1 2;–;C 2/ m;111;–;–;–;–;–;Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b04119;
+259;[(CH 3 ) 2 CHNH 3 ] 3 Sn 2 I 7;2;P 42 c m;100;RP;0.48;0.49;1.97;2.1;isopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b02764;
+260;(CH 3 (CH 2 ) 3 NH 3 ) 2 (CH 3 NH 3 )Sn 2 I 7;2;A m a 2;100;RP;0.5;0.5;1.89;1.65;Butylammonium, Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b02765;
+261;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Ge I 4;1;P -1;100;else;0.13;0.41;1.9;2.12;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.7b01985;
+262;[C 5 H 4 N(CH 2 )NH 3 ]Cu Cl 4;1;P n a 21;100;–;–;–;–;–;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic960849+;
+263;[C 5 H 4 N(CH 2 )NH 3 ]Cu Br 4;1;P n a 21;100;DJ;0;0;–;–;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic960849+;
+264;[CH 3 CH 2 NH 3 ] 2 Cu Cl 4;1;P b c a;100;RP;0.5;0.5;–;2.74;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/S0020-1693(00)93307-3;
+265;[NH 3 (CH 2 ) 2 O (CH 2 ) 2 O (CH 2 ) 2 NH 3 ]Cu Cl 4;1;P 1;100;RP;0.5;0.5;–;–;2,2'-(ethylenedioxy)bis-(ethylammonium);–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.6b01186;
+266;[CH 3 (CH 2 ) 3 NH 3 ] 2 Cu Cl 4;1;P 21/ c;100;else;0.4;0.4;–;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201101200;
+267;[NH 3 (CH 2 ) 4 NH 3 ]Cu Cl 4;1;P 21/ c;100;else;0.08;0.09;–;–;1,4-butanediamine;–;*.dia;*.dia;CIF;doi: 10.1016/S0022-3697(96)00045-5;
+268;[CH 3 (CH 2 ) 3 NH 3 ] 2 Sn I 4;1;P b c a;100;else;0.47;0.5;1.78;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm702405c;
+269;[H O (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P 21/ c;100;else;0.2;0.21;2.16;2.07;2-hydroxyethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsenergylett.8b01046;
+270;[H O (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P m n a;100;else;0.01;0.4;2.09;2.07;2-hydroxyethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsenergylett.8b01046;
+271;[H O (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.2;0.2;2.13;2.1;2-hydroxyethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic048814u;c
+272;[H O (CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P b c n;100;else;0.16;0.17;2.78;2.74;2-hydroxyethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic048814u;
+273;Cs[C(NH 2 ) 3 ]Sn Br 4;1;I m m a;100;–;–;–;2.66;–;Caesium, Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b00038;
+274;Cs 2 [C(NH 2 ) 3 ]Sn 2 Br 7;2;С m m m;100;–;–;–;2.59;2.16;Caesium, Guanidinium;Cs;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b00038;
+275;Cs 8 Sn 6 Br 1 3 I 7;–;C m c m;;–;–;–;2.31;2.23;Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b00038;
+276;[NH 3 (CH 2 ) 5 NH 3 ]Sn I 4;–;P b c n;corru- gated 4x4;else;0.01;0.22;1.99;–;1,5-pentyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1039/a905323i;
+277;Cs 2 Sn Cl 2 I 2;1;I4/ m m m;100;–;–;–;2.52;2.62;1,5-pentyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b02232;
+278;Cs 2 Rb 2 Sn 3 Cl 8 I 2;–;C m c m;;RP;0.49;0.5;2.43;2.81;1,5-pentyldiammonium, Rubidium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b02232;
+279;SnRb 3 Cl 2 . 3 3 I 2 . 6 7;–;P 63 m c;111;–;–;–;2.37;–;1,5-pentyldiammonium, Rubidium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b02232;
+280;[CH 3 NH 3 ] 2 Cd Cl 4;–;P 21/ m;;DJ;0;0.02;3.34;4.13;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C8TC02153H;
+281;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Cd Cl 4;1;P b c a ( P c a b );100;RP;0.5;0.5;3.24;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270197005726;
+282;[CH 3 NH 3 ] 2 Mn Cl 4;1;P 42/ n c m;100;RP;0.5;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/pssa.2210350225;
+283;Cs 4 MnSb 2 Cl 1 2;–;R-3 m;111;–;–;–;–;–;;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b02099;
+284;(NH 3 (CH 2 ) 3 NH 3 )Mn Cl 4;1;I m m a;100;DJ;0;0;–;–;1,3-propyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1016/0301-0104(75)80098-X;
+285;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Cu Cl 4;1;P b c a;100;RP;0.5;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm2023696;
+286;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Cu Cl 4;1;C m c a;100;RP;0.5;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm2023696;
+287;[C 5 H 9 NH 3 ] 2 Cu Br 4;–;P n a 21 ( P n 21 a );not 2D;–;–;–;–;–;Cyclopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic030317a;
+288;[C 5 H 9 NH 3 ] 2 Cu Br 4;–;P n a 21;not 2D;–;–;–;–;–;Cyclopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic030317a;
+289;[C 8 H 8 N 4 ]Sn I 4;1;C 2/ m;100;else;0.27;0.3;2.1;1.79;Benzodiimidazolium;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201811497;
+290;[C 8 H 8 N 4 ]Pb I 4;1;C 2/ m;100;else;0.29;0.31;2.04;–;Benzodiimidazolium;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201811497;c
+291;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Sn 3 Br 1 0;3;C m c 21;100;RP;0.48;0.49;2.65;2.22;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b11341;
+292;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Sn 3 Br 1 0;3;C m c a;100;RP;0.5;0.5;2.51;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b11341;
+293;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Sn 3 Br 1 0;3;I4/ m;100;RP;0.5;0.5;2.5;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b11341;
+294;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Sn 3 Br 1 0;3;C m c 21;100;else;0.47;0.49;2.5;2.4;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201705836;
+295;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Sn 3 Br 1 0;3;C m c a;100;RP;0.5;0.5;2.34;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201705836;
+296;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Sn I 4 *C 6 H 6;1;C /2 c;100;else;0.23;0.49;2.03;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic011190x;
+297;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Sn I 4 *C 6 F 6;1;C /2 c;100;else;0.18;0.5;1.94;2;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic011190x;
+298;[NH 3 (CH 2 ) 2 (C 4 H 4 S) 4 (CH 2 ) 2 NH 3 ]Bi 2 / 3 I 4;1;С2/ m;100;else;0.13;0.5;2.16;–;5,5'''-bis-(aminoethyl)-2,2':5',2'':5'',2'''-quaterthiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic000794i;
+299;[NH 3 (CH 2 ) 2 (C 4 H 4 S) 4 (CH 2 ) 2 NH 3 ]Bi 2 / 3 I 4;1;C 2/ c;100;else;0.13;0.5;2.14;–;5,5'''-bis-(aminoethyl)-2,2':5',2'':5'',2'''-quaterthiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic000794i;
+300;[NH 3 (CH 2 ) 2 (C 4 H 4 S) 4 (CH 2 ) 2 NH 3 ]Sb 2 / 3 I 4;1;С2/ m;100;else;0.13;0.5;–;–;5,5'''-bis-(aminoethyl)-2,2':5',2'':5'',2'''-quaterthiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic000794i;
+301;[NH 3 (CH 2 ) 2 (C 4 H 4 S) 4 (CH 2 ) 2 NH 3 ]Sb 2 / 3 I 4;1;C 2/ c;100;else;0.13;0.5;–;–;5,5'''-bis-(aminoethyl)-2,2':5',2'':5'',2'''-quaterthiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic000794i;
+302;[C 6 H 5 CH 2 NH 3 ] 2 Sn Cl 4;1;C m c 21;100;RP;0.49;0.5;3.3;3.04;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c9ta11923j;
+303;[C 6 H 5 CH 2 NH 3 ] 2 Sn Br 4;1;C m c 21;100;RP;0.5;0.5;2.72;2.41;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c9ta11923j;
+304;[C 6 H 5 CH 2 NH 3 ] 2 Sn I 4;1;P b c a;100;RP;0.48;0.5;2.03;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c9ta11923j;
+305;[C 6 H 1 1 NH 3 CH 3 ] 4 Pb 3 I 1 0;–;P b c n;;else;0.01;0.08;2.13;–;Cyclohexylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.8b00938;
+306;[C 6 H 1 1 NH 3 CH 3 ] 4 Pb 3 I 1 0;–;C m c a;;else;0.12;0.12;2.13;2.48;Cyclohexylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.8b00938;
+307;[C 2 H 5 NH 3 ] 2 F e Cl 4;1;I/4 m m m;100;RP;0.5;0.5;–;–;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic5030229;
+308;[C 2 H 5 NH 3 ] 2 F e Cl 4;1;P 42/ n c m;100;RP;0.5;0.5;–;–;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic5030229;
+309;[C 2 H 5 NH 3 ] 2 F e Cl 4;1;P c c n;100;RP;0.5;0.5;–;–;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic5030229;
+310;[C 2 H 5 NH 3 ] 2 F e Cl 4;1;P b c a ( P c a b );100;RP;0.5;0.5;–;–;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic5030229;
+311;[C 2 H 5 NH 3 ] 2 F e Cl 4;1;C 2/ c;100;RP;0.49;0.5;–;–;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic5030229;
+312;[CH 3 (CH 2 ) 5 NH 3 ] 2 Cu Cl 4;1;P -1;;else;0.34;0.46;–;–;Hexylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b02208;
+313;[C 6 H 1 1 CH 3 NH 3 ] 2 Sn I 4;1;P 21/ c;100;else;0.37;0.37;2.18;–;Cyclohexylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.poly.2017.03.025;
+314;[C 6 H 1 1 CH 3 NH 3 ] 2 Sn I 4;1;C m c a;100;RP;0.5;0.5;2.05;–;Cyclohexylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.poly.2017.03.025;
+315;Cs 3 Sb 2 I 9;–;P -3 m 1;111;–;–;–;–;–;Caesium;–;*.dia;*.dia;CIF;doi:;
+316;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P 1;100;else;0.15;0.46;2.03;2.06;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201406466;
+317;[C 3 H 4 N 2 (CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.09;0.41;2.04;2.05;Histammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b03054;b
+318;[C 6 H 5 CH 2 NH 3 ]Pb I 4;1;P b c a;100;else;0.47;0.5;2.27;2.18;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b03054;c
+319;[C 6 H 1 1 NH 3 ] 2 Cd Br 4;1;C m c 21;100;else;0.01;0.19;2.91;3.24;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsphotonics.8b00052;
+320;[ I (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.19;0.19;2.37;–;2-iodoethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic070240g;c
+321;[ Br (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C 2/ c;100;else;0.15;0.5;2.12;–;2-bromoethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic070240g;
+322;[ Br (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P n m a ( P b n m );100;else;0.12;0.45;2.14;–;2-bromoethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic070240g;
+323;[NH 3 (CH 2 ) 2 SS(CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.33;0.36;2.19;–;2,2'-dithiobisethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201301017;
+324;[NH 3 (CH 2 ) 2 SS(CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ n );100;else;0.02;0.3;2.31;–;2,2'-dithiobisethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201301017;c
+325;[NH 3 (CH 2 ) 2 SS(CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P n a 21 ( P 21 c n );100;else;0.27;0.31;2;–;2,2'-dithiobisethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201301017;
+326;[C 5 H 4 N(CH 2 )NH 3 ]Pb I 4;1;P b c a;100;else;0.22;0.25;2.14;–;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;c
+327;[C 5 H 4 N(CH 2 )NH 3 ]Pb I 4;1;P b c a;100;else;0.23;0.24;2.11;2.02;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;c
+328;[C 5 H 4 N(CH 2 )NH 3 ]Pb Br 4;1;P b c a;100;else;0.25;0.27;2.62;–;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;
+329;[C 5 H 4 N(CH 2 )NH 3 ]Pb Br 4;1;P b c a;100;else;0.24;0.26;2.66;2.79;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;
+330;[C 5 H 4 N(CH 2 )NH 3 ]Pb 4 Cl 1 6;1;P n a 21;100;else;0.17;0.27;3.35;–;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;
+331;[C 5 H 4 N(CH 2 )NH 3 ]Pb Cl 4;1;P b c a;100;else;0.25;0.27;3.37;3.42;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;
+332;[C 5 H 4 N(CH 2 )NH 3 ] 6 I Pb 5 I 2 1 · 3 H 2 O;–;P n m a;-;else;0;0.1;2.16;–;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;b
+333;[C 5 H 4 N(CH 2 )NH 3 ] 6 I Pb 5 I 2 1 · 3 H 2 O;–;P n m a;-;else;0.01;0.1;2.15;2.35;3-Pyridinylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b01840;
+334;[(CH 3 ) 2 NH(CH 2 ) 2 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.02;0.18;2.58;–;2-(dimethylamino)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b01312;
+335;[(CH 3 ) 2 NH(CH 2 ) 3 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0;0.33;2.72;–;N,N'-dimethylpropane-1,3-diammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b01312;
+336;[(CH 3 ) 2 NH(CH 2 ) 4 NH 3 ]Pb Br 4;1;A b a 2;100;else;0.17;0.3;2.6;–;2-(dimethylamino)butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.7b01312;
+337;[(H O O C) 2 C 7 H 7 N 2 ] 2 Sn I 4;1;P 1;100;else;0.29;0.33;2.2;–;5,6-dicarboxybenzimidazolium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.6b00790;
+338;[(CH 3 ) 2 NHC 6 H 4 NH 3 ]Pb I 4;1;P 21/ c (21/ n );100;else;0.19;0.21;2.17;2.29;N,N-Dimethylbenzene-1,4-diammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b02285;c
+339;[ F C 6 H 5 (CH) 2 C 6 H 5 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 ]Sn 2 I 7;2;C 2/ m;100;else;0.05;0.5;1.9;–;2-(4-(3-fluoro)stilbenyl)ethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adfm.201904810;
+340;[ F C 6 H 5 (CH) 2 C 6 H 5 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 ]Sn 2 I 7;1;P -1;100;else;0;0.5;1.94;1.7;2-(4-(3-fluoro)stilbenyl)ethanammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1002/adfm.201904810;
+341;[C 6 H 5 (CH 2 ) 2 NH 3 ]Sn I 4;1;C 2/ m;100;else;0.17;0.5;1.94;2.06;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adfm.201904810;
+342;[ F C 6 H 5 (CH) 2 C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;P -1;100;else;0.04;0.5;2.01;1.98;2-(4-(3-fluoro)stilbenyl)ethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adfm.201904810;
+343;[ F C 6 H 5 (CH) 2 C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Sn I 4;1;C 2/ m;100;else;0.09;0.5;2.01;–;2-(4-(3-fluoro)stilbenyl)ethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adfm.201904810;
+344;CsPb I 2 Cl 2;1;I4/ m m m;100;else;0.15;0.46;2.51;2.96;Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b06046;
+345;[NH 3 (CH 2 ) 8 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.41;0.43;2.66;3.12;1,8-octanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+346;[NH 3 (CH 2 ) 4 NH 3 ]Pb Br 4;1;P -1;100;else;0.19;0.29;2.77;3.17;1,4-butanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+347;[C O O H(CH 2 ) 3 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.03;0.08;2.84;3.21;3-carboxypropan-1-ammonium (γ-ammoniobutyric acid);–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+348;[C 3 H 4 N 2 (CH 2 ) 2 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.03;0.38;2.66;3.04;Histammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+349;[NH 3 C 6 H 4 (CH 2 ) 2 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.03;0.33;2.83;3.24;3-(2-aminoethyl)anilinium;–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+350;[H O (CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P b c a;100;else;0.16;0.17;2.82;2.97;2-hydroxyethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic048814u;
+351;[C 3 H 4 N 2 (CH 2 ) 2 NH 3 ]Pb Br 4;1;P 21/ c;100;else;0.03;0.38;2.69;–;Histammonium;–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+352;[NH 3 CH 2 CH(CH 3 )(CH 2 ) 3 NH 3 ]Pb Br 4;1;C 2/ c;100;else;0.23;0.25;2.69;–;;–;*.dia;*.dia;CIF;doi: 10.1039/c7sc01590a;
+353;[C 3 H 3 N 2 (CH 2 ) 3 NH 3 ]Pb Cl 4;–;P 21/ c;110;else;0.19;0.33;3.38;3.49;N-(3-aminopropyl)imidazole;–;*.dia;*.dia;CIF;doi: 10.1039/C7TC04868H;
+354;[CH 3 NH 3 ]Cd Cl 4;1;P 21/ c;100;RP;0.49;0.5;3.33;5.29;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.7b01986;
+355;( F 2 CHCH 2 NH 3 ) 2 Cd Br 4;1;P b c a;100;RP;0.49;0.5;2.8;2.84;2,2-difluoroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b03213;
+356;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Sn Br 4;1;P -1;100;else;0.18;0.46;2.68;2.5;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1246/cl.140536;
+357;[C 6 H 9 (CH 2 ) 2 NH 3 ] 2 Sn Br 4;1;P -1;100;else;0.07;0.44;2.65;2.71;2-(1-cyclohexenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1246/cl.140536;
+358;[C 6 H 9 (CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P -1;100;else;0.06;0.46;2.76;2.98;2-(1-cyclohexenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1246/cl.140536;
+359;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.2;0.5;2.07;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1007/s12274-016-1401-6;
+360;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P -1;100;else;0.15;0.46;2.75;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1007/s12274-016-1401-6;
+361;[NH 3 (CH 2 ) 2 NH 3 ]Pb I 4 *DMS O;–;P 21/ c;110;else;0.01;0.04;2.76;3.18;1,2-ethanediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.8b02042;a
+362;[H O O C(CH 2 ) 2 NH 3 ] 2 Cu Br 4;1;C 2/ c (I2/ c );100;else;0.07;0.07;–;–;β-alaninium;–;*.dia;*.dia;CIF;doi: 10.1021/ic00164a006;
+363;[СH 3 NH 3 ] 2 F e Cl 4;1;P c c n;100;RP;0.5;0.5;–;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic402535u;
+364;[СH 3 NH 3 ] 2 F e Cl 4;1;I4/ m m m;100;RP;0.5;0.5;–;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic402535u;
+365;[NH 3 (CH 2 ) 2 O (CH 2 ) 2 O (CH 2 ) 2 NH 3 ]Cu Cl 4;1;P c c n;100;RP;0.5;0.5;–;–;2,2'-(ethylenedioxy)bis-(ethylammonium);–;*.dia;*.dia;CIF;doi: 10.1021/ja512396m;
+366;[NH 3 (CH 2 ) 2 O (CH 2 ) 2 O (CH 2 ) 2 NH 3 ]Cu Cl 4;1;P c c n;100;RP;0.5;0.5;–;–;2,2'-(ethylenedioxy)bis-(ethylammonium);–;*.dia;*.dia;CIF;doi: 10.1021/ja512396m;
+367;[NH 3 (CH 2 ) 2 (CH 3 )(CH 2 ) 3 NH 3 ]Pb Cl 4;1;C c;100;else;0.3;0.31;3.41;3.87;;–;*.dia;*.dia;CIF;doi: 10.1039/C8TC03167C;
+368;[ F (CH 2 ) 2 NH 3 ] 2 Pb Br 4;1;P n m a;100;else;0.15;0.43;2.65;2.72;2-fluoroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b02172;
+369;[ F 2 CHCH 2 NH 3 ] 2 Pb Br 4;1;P b c a;100;RP;0.49;0.5;2.79;3.04;2,2-difluoroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b02172;
+370;[ F 3 CCH 2 NH 3 ] 2 Pb Br 4;1;P n m a;100;else;0.45;0.47;2.88;2.98;2,2,2-trifluoroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b02172;
+371;[NH 2 C 4 H 7 NH 3 ]Pb I 4;–;P n a 21;110;else;0.21;0.5;2.21;2.26;3-aminopyrrolidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01511;b
+372;[NH 2 C 4 H 7 NH 3 ]Pb Br 4;–;P 21/ c;110;else;0.22;0.49;2.81;–;3-aminopyrrolidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01511;
+373;[NH 2 C 4 H 7 NH 3 ]Pb Br 4;–;P 21/ c;110;else;0.31;0.43;2.79;2.95;3-aminopyrrolidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01511;
+374;[NH 2 C 4 H 7 NH 3 ]Pb Cl 4;–;P 21/ c;110;else;0.34;0.45;3.36;3.45;3-aminopyrrolidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.9b01511;
+375;[CH 3 CH 2 NHC 4 H 8 NH 2 ]Pb Br 4;–;P c;110;DJ;0;0;2.71;3.12;1-ethylpiperazine;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b08691;
+376;[NH 2 C 5 H 9 CH 2 NH 3 ]Pb Br 4;1;P c a 21;100;else;0;0.04;2.63;2.93;4-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b08691;
+377;[CH 3 NHC 4 H 8 NH 2 ] 2 Pb 3 Br 1 0;3;C 2/ c;;DJ;0;0;2.5;2.97;1-methylpiperazine;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b08691;
+378;[CH 3 (CH 2 ) 2 NH 3 ]Cd Cl 4;1;C m c a;100;RP;0.48;0.5;3.07;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0567740878006007;
+379;[CH 3 (CH 2 ) 2 NH 3 ]Cd Cl 4;1;P b c a;100;RP;0.48;0.5;3.34;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0567740878006007;
+380;[CH 3 (CH 2 ) 2 NH 3 ]Cu Cl 4;1;P b c a;100;RP;0.49;0.5;–;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768189010293;
+381;[CH 3 CH 2 NH 3 ]Mn Cl 4;1;P b c a;100;RP;0.49;0.5;–;–;Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0567740877011911;
+382;[CH 3 (CH 2 ) 2 NH 3 ]Pd Cl 4;1;P 21/ c;100;else;0.41;0.45;–;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0567740877006761;
+383;[CH 3 (CH 2 ) 2 NH 3 ]Cu Cl 4;1;P b c a ( P c a b );100;RP;0.48;0.5;–;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/0031-8914(70)90240-5;
+384;[CH 3 (CH 2 ) 1 1 NH 3 ]Cd Cl 4;1;P -1;100;else;0.01;0.27;3.04;–;n-dodecylammonium;–;*.dia;*.dia;CIF;doi: 10.1080/01411594.2012.752826;
+385;[CH 3 NH 3 ] 2 Mn Cl 4;1;C m c a ( A b m a );100;RP;0.5;0.5;–;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/pssa.2210310214;
+386;[CH 3 NH 3 ] 2 Cu Cl 4;1;P 21/ c ( P 21/ a );100;RP;0.48;0.49;–;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270187095568;
+387;[CH 3 NH 3 ] 2 Cu Cl 4;1;P 21/ c ( P 21/ a );100;else;0.43;0.45;–;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270187095568;
+388;[NH 3 C 5 H 4 NH]Cu Cl 4;1;P 21/ c;100;DJ;0;0;–;–;3-aminopyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/ja00234a010;
+389;[NH 3 C 5 H 4 NH]Cu Br 4;1;P 21/ c;100;DJ;0;0;–;–;3-aminopyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/ja00234a010;
+390;[NH 4 ] 2 Cu Cl 4;1;C m c a;100;RP;0.5;0.5;–;–;Ammonium;–;*.dia;*.dia;CIF;doi: 10.1063/1.1726253;
+391;[NH 3 (CH 2 ) 3 NH 3 ]Cu Cl 4;1;P n m a;100;DJ;0;0;–;–;1,3-propyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic50166a042;
+392;[NH 3 (CH 2 ) 4 NH 3 ]Pb Cl 4;1;P 21/ c;100;else;0.07;0.27;2.64;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1002/pssa.2211430202;
+393;[NH 3 (CH 2 ) 4 NH 3 ]Cd Cl 4;1;P 21/ c ( P 21/ a );100;else;0.25;0.25;2.6;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1016/0022-3697(94)90210-0;
+394;[NH 3 (CH 2 ) 4 NH 3 ]Cd Cl 4;1;P m n a;100;DJ;0;0;2.63;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1016/0022-3697(94)90210-0;
+395;[NH 3 (CH 2 ) 4 NH 3 ]Cd Cl 4;1;P 21/ c ( P 21/ a );100;else;0.03;0.03;2.59;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1016/0022-3697(94)90210-0;
+396;[ Cl C 6 H 4 NH 3 ] 2 Cu Br 4;1;P b c a;100;RP;0.48;0.5;–;–;4-Chloroanilinium;–;*.dia;*.dia;CIF;doi: 10.1021/ic970793z;
+397;[NH 3 (CH 2 ) 2 NH 3 ]Cu Br 4;1;P 21/ c ( P 21/ a );100;else;0.04;0.04;–;–;1,2-ethanediammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270188009060;
+398;[NH 3 (CH 2 ) 3 NH 3 ]Cu Br 4;1;P 21/ c ( P 21/ n );100;else;0.13;0.14;–;–;1,3-propyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270188009060;
+399;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Cu Cl 4;1;P b c a ( P c a b );100;RP;0.5;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270189007535;
+400;[C 6 H 5 (CH 2 ) 3 NH 3 ] 2 Cu Br 4;1;P b c a ( P c a b );100;RP;0.49;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270189007535;
+401;[NH 3 (CH 2 ) 4 NH 3 ]Cu Cl 4;1;P 21/ c ( P 21/ a );100;else;0.28;0.28;–;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270189012680;
+402;[NH 3 (CH 2 ) 4 NH 3 ]Cu Br 4;1;P 21/ c ( P 21/ a );100;else;0.26;0.27;–;–;1,4-butyldiamine;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270189012680;
+403;[NH 3 (CH 2 ) 5 NH 3 ]Cu Cl 4;1;P 21/ c ( P 21/ n );100;else;0.29;0.32;–;–;1,5-pentyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270189012680;
+404;[NH 3 (CH 2 ) 5 NH 3 ]Cu Br 4;1;P 21/ c ( P 21/ n );100;else;0.27;0.29;–;–;1,5-pentyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270189012680;
+405;[CH 3 (CH 2 ) 3 NH 3 ]Cd Cl 4;1;C m c a ( A b m a );100;RP;0.49;0.5;2.62;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S010827019101452X;
+406;[CH 3 (CH 2 ) 2 NH 3 ]Cd Cl 4;1;С m c a ( A b m a );100;DJ;0;0;2.59;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768188004185;
+407;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.19;0.5;2.09;2.36;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00247;
+408;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.14;0.5;2.05;2.4;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00247;
+409;[CH 3 C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.42;0.5;2.12;2.38;p-methylphenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00247;
+410;[CH 3 C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.39;0.5;2.09;2.4;p-methylphenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00247;
+411;[ Br C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C 2/ c;100;else;0.43;0.44;2.31;2.38;p-bromophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00247;
+412;[ Cl C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C 2/ c;100;else;0.39;0.4;2.31;2.38;p-chlorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00247;
+413;[C 5 H 4 NH(CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.2;0.36;2.13;2.28;2-(1-Pyridyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b04064;b
+414;[C 3 H 4 N 2 (CH 2 ) 2 NH 3 ]Pb I 4;–;P 21/ c;corru- gated 3x3;else;0;0.22;2.13;2.38;imidazolium ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b04064;b
+415;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ]Pb 2 Br 7;2;P c;100;DJ;0;0;2.51;–;3-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+416;[C 5 H 1 1 NCH 2 NH 3 ][CH 3 NH 3 ]Pb 2 Br 7;2;C c;100;DJ;0;0;2.54;–;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+417;[C 5 H 1 1 NCH 2 NH 3 ][CH(NH 2 ) 2 ]Pb 2 Br 7;2;C m;100;DJ;0;0;2.46;2.55;3-(aminomethyl)piperidinium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+418;[C 5 H 1 1 NCH 2 NH 3 ][CH(NH 2 ) 2 ]Pb 2 Br 7;2;P c;100;DJ;0;0;2.53;2.64;4-(aminomethyl)piperidinium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+419;[NH 3 C 6 H 4 NH 3 ]Cu Cl 4;1;P 21/ c;100;else;0.08;0.08;–;–;1,4-phenylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/B406671E;
+420;[(C 6 H 5 )C 6 H 4 NH 3 ] 2 Cu Cl 4;1;P b c a;100;else;0.46;0.5;–;–;p-biphenylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/B406671E;
+421;[NH 3 (C 6 H 4 ) 2 NH 3 ]Cu Cl 4;1;P 21/ c;100;else;0.25;0.26;–;–;1,1'-biphenyl-4,4'-diammonium;–;*.dia;*.dia;CIF;doi: 10.1039/B406671E;
+422;[CH 3 (CH 2 ) 3 NH 3 ] 2 CsPb 2 Br 7;2;C m c 21;100;RP;0.49;0.49;2.63;2.7;Butylammonium;Cs;*.dia;*.dia;CIF;doi: 10.1002/anie.201803716;
+423;[CH 3 (CH 2 ) 3 NH 3 ] 2 CsPb 2 Br 7;2;C m c 21;100;RP;0.5;0.5;2.56;–;Butylammonium;Cs;*.dia;*.dia;CIF;doi: 10.1002/anie.201803716;
+424;[CH 3 (CH 2 ) 3 NH 3 ] 2 CsPb 2 Br 7;2;C m c a;100;RP;0.49;0.5;2.42;–;Butylammonium;Cs;*.dia;*.dia;CIF;doi: 10.1002/anie.201803716;
+425;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH(NH 2 ) 2 ]Pb 2 Br 7;2;C m c 21;100;RP;0.49;0.5;2.63;2.27;Butylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b04014;
+426;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH(NH 2 ) 2 ]Pb 2 Br 7;2;C m c m;100;RP;0.5;0.5;2.52;–;Butylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b04014;
+427;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 Br 1 0;3;C m c 21;100;else;0.47;0.49;2.5;2.4;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201705836;
+428;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 Br 1 0;3;C m c a;100;RP;0.5;0.5;2.34;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201705836;
+429;[CH 3 (CH 2 ) 3 NH 3 ] 2 (CH 3 NH 3 )Pb 2 Br 7;2;C m c 21;100;RP;0.48;0.49;2.7;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b12948;
+430;[CH 3 (CH 2 ) 3 NH 3 ] 2 (CH 3 NH 3 )Pb 2 Br 7;2;C m c a;100;RP;0.5;0.5;2.46;2.55;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.8b12948;
+431;[CH 3 (CH 2 ) 4 NH 3 ] 2 [CH(NH 2 ) 2 ]Pb 2 I 7;2;P n m a;100;else;0.31;0.31;2.01;1.9;Pentylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1002/smll.201901194;
+432;[CH 2 CHCH 2 NH 3 ] 2 [CH 3 CH 2 NH 3 ] 2 Pb 3 Br 1 0;3;C m c 21;100;else;0.44;0.48;2.53;2.71;Allylammonium;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201915094;
+433;[CH 2 CHCH 2 NH 3 ] 2 [CH 3 CH 2 NH 3 ] 2 Pb 3 Br 1 0;3;F m m m;100;RP;0.5;0.5;2.5;–;Allylammonium;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201915094;
+434;[CH 2 CHCH 2 NH 3 ] 2 [CH 3 CH 2 NH 3 ] 2 Pb 3 Br 1 0;3;I4/ m m m;100;RP;0.5;0.5;2.56;–;Allylammonium;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201915094;
+435;[ F 2 C 6 H 9 NH 3 ] 2 Pb I 4;1;C m c 21;100;else;0.44;0.46;2.38;2.38;4,4‐difluorocyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.201901843;a
+436;[ F 2 C 6 H 9 NH 3 ] 2 Pb I 4;1;P b c a;100;else;0.45;0.5;2.29;–;4,4‐difluorocyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.201901843;c
+437;[CH 3 CH 2 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 Br 1 0;3;C m c 21;100;else;0.47;0.48;2.45;2.7;Ethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201907660;
+438;[CH 3 CH 2 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 Br 1 0;3;I4/ m m m;100;RP;0.5;0.5;2.43;–;Ethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1002/anie.201907660;
+439;(H O O C(CH 2 ) 3 NH 3 )Pb I 4;1;P b c a;100;RP;0.48;0.5;2.16;–;ammonium 4-butyric acid;–;*.dia;*.dia;CIF;doi: 10.1039/B504342E;c
+440;(H O O C(CH 2 ) 3 NH 3 ) 2 (CH 3 NH 3 )Pb 2 I 7;2;A b a 2 ( C 2 c b );100;RP;0.48;0.49;2.04;–;ammonium 4-butyric acid;Methylammonium;*.dia;*.dia;CIF;doi: 10.1039/B504342E;
+441;[C 1 6 H 9 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.13;0.13;2.36;2.53;pyrene-butylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C8CC09955C;a
+442;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb Br 4;1;P b c a;100;RP;0.49;0.5;2.84;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpcc.9b01550;
+443;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;A b a 2 ( C 2 c b );100;RP;0.49;0.49;1.93;1.86;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00847;b
+444;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ] 3 Pb 4 I 1 3;4;A m a 2 ( C c 2 m );100;RP;0.5;0.5;–;1.96;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.6b00847;
+445;[NH 3 (CH 2 ) 2 SS(CH 2 ) 2 NH 3 ]Pb Br 4;1;P 21;100;else;0.01;0.35;2.47;–;2,2'-dithiobisethanammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b617225c;
+446;[NH 2 (C 2 H 4 ) 2 NH 2 ]Pb Br 4;1;P 21;100;else;0.08;0.28;2.47;–;Piperazinium;–;*.dia;*.dia;CIF;doi: 10.1021/ic000319k;
+447;[C 6 H 1 1 NH 3 ]Pb Br 4;1;C m c 21;100;else;0.46;0.47;2.57;–;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpcc.5b06211;
+448;[C 6 H 1 1 NH 3 ]Pb Br 4;1;C m c 21;100;else;0.46;0.47;2.48;–;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpcc.5b06211;
+449;[C 6 H 5 NH 3 ] 2 Pb Cl 4;1;P -1;100;else;0.18;0.45;3.37;3.59;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.7b00073;
+450;Rb 3 Bi 2 I 9;–;P 21/ c ( P 21/ n );111;–;–;–;2.31;2.1;Rubidium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.5b03147;
+451;Rb 3 Bi 2 I 9;–;P c;111;–;–;–;2.3;–;Rubidium;–;*.dia;*.dia;CIF;doi: 10.1016/S0925-8388(99)00481-8;
+452;Tl 3 Bi 3 I 9;–;P 21/ c ( P 21/ n );111;–;–;–;–;–;Thallium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.200400484;
+453;[CH 3 (CH 2 ) 2 NH 3 ] 2 Pb Cl 4;1;P n m a;100;else;0.29;0.29;3.09;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270188003634;
+454;[C(NH 2 ) 3 ] 2 Sn I 4;1;P 21/ c ( P 21/ n );110;DJ;0;0;2;–;Guanidinium;–;*.dia;*.dia;CIF;doi: 10.1103/PhysRevB.61.1026;
+455;[ I (CH 2 ) 6 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.19;2.29;6-iodohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C6SC02848A;
+456;[C 6 H 9 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.09;0.46;2.25;–;2-(1-cyclohexenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270106013953;c
+457;[C 6 H 5 CH(CH 3 )NH 3 ] 2 Pb I 4;1;P 21/ c ( P 21/ a );100;else;0.27;0.29;2.3;–;1-phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S1600536802019025;c
+458;[C 6 H 5 (CH 3 ) 3 NH 3 ] 4 Pb 3 I 1 0;–;P b c a;;else;0.07;0.08;2.32;–;Phenylpropylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270106009127;c
+459;[CH 3 (CH 2 ) 2 NH 3 ] 8 Pb 5 I 1 8;–;P 2/ c;;DJ;0;0;2.11;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108270106014417;
+460;[NH 3 CH 2 CH( O H)CH 2 NH 3 ]Cd Cl 4;1;P n m a;100;DJ;0;0;3.38;4.4;1,3-Diamino-2-propanol deprotonated;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201900493;
+461;[NH 3 CH 2 CH( O H)CH 2 NH 3 ]Cd Cl 4;1;P 4/ m m m;100;DJ;0;0;3.29;–;1,3-Diamino-2-propanol deprotonated;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.201900493;
+462;[(C 6 H 5 (CH 2 ) 2 NH 3 ) 2 (CH 3 NH 3 )]Pb 2 I 7;2;P -1;100;else;0.14;0.5;1.96;–;Phenylethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/ja00006a076;
+463;[ Cl C 6 H 4 CH 2 (CH 3 )NH 3 ] 2 Pb I 4;1;P 1;100;else;0.15;0.36;2.38;2.34;R-1-(4-chlorophenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.201808088;
+464;[ Cl C 6 H 4 CH 2 (CH 3 )NH 3 ] 2 Pb I 4;1;P -1;100;else;0.15;0.37;2.39;2.34;S-1-(4-chlorophenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.201808088;
+465;[ Cl C 6 H 4 CH 2 (CH 3 )NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.21;0.22;2.31;2.36;rac-1-(4-chlorophenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.201808088;
+466;[NH 3 (CH 2 ) 2 (CH 3 )(CH 2 ) 3 NH 3 ]Pb Br 4;1;C c;100;else;0.24;0.27;2.84;3.05;3-aminopyridinium;–;*.dia;*.dia;CIF;doi: 10.1039/C8CC01663A;
+467;[(C 5 H 1 1 NCH 2 NH 3 ) [CH(NH 2 ) 2 ] 0 . 5 (CH 3 NH 3 ) 0 . 5 ]Pb 2 Br 7;2;P c;100;DJ;0;0;2.47;2.73;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+468;[(C 5 H 1 1 NCH 2 NH 3 ) [CH(NH 2 ) 2 ] 0 . 5 (CH 3 NH 3 ) 0 . 5 ]Pb 2 Br 7;2;P c;100;DJ;0;0;2.5;2.81;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+469;[(C 5 H 1 1 NCH 2 NH 3 ) [CH(NH 2 ) 2 ] 0 . 5 (CH 3 NH 3 ) 0 . 5 ]Pb 2 Br 7;2;C 2;100;DJ;0;0;2.36;2.66;3-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+470;[(C 5 H 1 1 NCH 2 NH 3 ) [CH(NH 2 ) 2 ]Pb 2 Br 7;2;P c;100;DJ;0;0;2.51;2.73;4-(aminomethyl)piperidinium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+471;[(C 5 H 1 1 NCH 2 NH 3 )(CH 3 NH 3 )]Pb 2 Br 7;2;C c;100;DJ;0;0;2.5;2.73;4-(aminomethyl)piperidinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c01625;
+472;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C c;100;else;0.2;0.5;2.27;2.34;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b04064;
+473;[C 5 H 4 NH(CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ c ( P 21/ n );100;else;0.24;0.25;2.14;2.28;2-(1-Pyridyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b04064;
+474;[C 3 H 4 N 2 (CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ c ( P 21/ n );100;else;0.11;0.43;2.09;2.38;imidazolium ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b04064;b
+475;[CH 3 CH(CH 3 )CH 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;RP;0.48;0.49;2.28;2.23;Isobutylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b03817;a
+476;[CH 3 CH(CH 3 )CH 2 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;C c;100;–;–;–;2.05;2.02;Isobutylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b03817;
+477;[C 6 H 5 CH 2 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;P b c n;100;RP;0.48;0.49;2.07;1.98;Phenylmethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b03817;a
+478;[C 6 H 5 CH 2 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;C m c 21;100;RP;0.49;0.5;2.05;1.79;Phenylmethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.8b03817;a
+479;[C 6 H 5 CH(CH 3 )NH 3 ] 2 Pb I 4;2;P 1;100;else;0.39;0.44;2;2.08;R1-phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06815;
+480;[C 6 H 5 CH(CH 3 )NH 3 ] 2 Pb I 4;2;P 1;100;else;0.38;0.44;2.08;–;S1-phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06815;
+481;[CH 3 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P 21/ c ( P 21/ a );100;else;0.31;0.31;2;1.58;Propylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;c
+482;[CH 3 (CH 2 ) 2 NH 3 ] 2 [CH 3 NH 3 ] 3 Pb 4 I 1 3;4;Сс;100;else;0.31;0.31;1.86;1.8;Propylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;a
+483;[NH 3 (CH 2 ) 2 NH 3 ]Cu Cl 4;1;P 21/ c ( P 21/ b );100;else;0.05;0.05;–;–;1,2-ethanediammonium;–;*.dia;*.dia;CIF;doi: 10.1016/0022-1902(72)80300-2;
+484;[CH 3 (CH 2 ) 2 NH 3 ] 1 0 [CH 3 NH 3 ]Pb 7 I 2 5;–;P 2/ c;step-like;–;–;–;2.03;2.14;Propylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;c
+485;[CH 3 (CH 2 ) 2 NH 3 ] 1 0 [CH 3 NH 3 ]Pb 7 I 2 5 *H 2 0;–;P 2/ c;step-like;–;–;–;2.05;–;Propylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;
+486;[CH 3 (CH 2 ) 2 NH 3 ] 8 Pb 5 I 1 8;–;P 2/ c;step-like;–;–;–;2.12;2.32;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;
+487;[CH 3 (CH 2 ) 2 NH 3 ] 8 Pb 5 I 1 8 *H 2 0;–;P 2/ c;step-like;–;–;–;2.1;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;
+488;[CH 3 (CH 2 ) 2 NH 3 ] 1 2 [CH 3 NH 3 ] 2 Pb 9 I 3 2;–;C 2;step-like;–;–;–;2;2.16;Propylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;a
+489;[CH 3 (CH 2 ) 2 NH 3 ] 1 2 [CH 3 NH 3 ] 2 Pb 9 I 3 2 *H 2 0;–;C 2;step-like;–;–;–;2.02;–;Propylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b02846;
+490;[C 5 H 4 NCH 2 NH 3 ]Pb I 4;1;P c ( P n );100;else;0.22;0.24;1.98;2.11;3-(aminomethyl)pyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06398;c
+491;[C 5 H 4 NCH 2 NH 3 ][CH 3 NH 3 ]Pb 2 I 7;2;P c;100;else;0.24;0.24;1.97;1.88;3-(aminomethyl)pyridinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06398;a
+492;[C 5 H 4 NCH 2 NH 3 ][CH 3 NH 3 ] 2 Pb 3 I 1 0;3;C c;100;else;0.23;0.23;1.86;1.73;3-(aminomethyl)pyridinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06398;a
+493;[C 5 H 4 NCH 2 NH 3 ][CH 3 NH 3 ] 3 Pb 4 I 1 3;4;P c;100;else;0.23;0.23;1.89;1.66;3-(aminomethyl)pyridinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06398;a
+494;[C 5 H 4 NCH 2 NH 3 ]Pb I 4;1;P c ( P n );100;DJ;0;0.01;2.17;–;4-(aminomethyl)pyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06398;b
+495;[C 5 H 4 NCH 2 NH 3 ][CH 3 NH 3 ]Pb 2 I 7;2;C c;100;DJ;0;0;2.03;1.94;4-(aminomethyl)pyridinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06398;a
+496;[C 5 H 4 NCH 2 NH 3 ][CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P c;100;DJ;0;0;2.05;1.77;4-(aminomethyl)pyridinium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b06398;a
+497;[C 5 H 1 1 NCH 2 NH 3 ]Pb I 4;1;P c;100;DJ;0;0;2.17;2.38;4-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b07776;a
+498;[C 5 H 1 1 NCH 2 NH 3 ]Pb I 4;1;P 21/ c;100;DJ;0;0;2.13;–;4-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b07776;
+499;[(CH 3 (CH 2 ) 4 NH 3 ) 2 (CH 3 NH 3 )]Pb 2 I 7;2;C c;100;else;0.29;0.29;2.11;2.09;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b01327;a
+500;[(CH 3 (CH 2 ) 4 NH 3 ) 2 (CH 3 NH 3 ) 2 ]Pb 3 I 1 0;3;P c;100;else;0.29;0.29;2.06;1.97;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b01327;a
+501;[(CH 3 ) 2 CHNH 3 ] 4 Cd 3 Cl 1 0;–;P b c a;;else;0.07;0.07;3.37;–;isopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S0108768110054583;
+502;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Cd I 4;1;P 21/ m;;–;–;–;2.15;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C7CC02408H;
+503;[ Cl (CH 2 ) 2 NH 3 ] 2 Cu Cl 4;1;P -1;;else;0.32;0.43;–;1.98;2‐chloroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/aoc.5293;
+504;[ Cl (CH 2 ) 2 NH 3 ] 2 Cu Cl 4;1;P 21/ c;;else;0.47;0.48;–;–;2‐chloroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/aoc.5293;
+505;[C 5 H 9 NH 3 ] 4 Cd 3 Cl 1 0;–;P 212121;;DJ;0.01;0.02;3.4;–;Cyclopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic500554z;
+506;[C 5 H 9 NH 3 ] 4 Cd 3 Cl 1 0;–;P b c a;;else;0.06;0.09;3.37;–;Cyclopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic500554z;
+507;[C 5 H 9 NH 3 ] 4 Cd 3 Cl 1 0;–;C m c a;;else;0.07;0.08;3.4;–;Cyclopentylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic500554z;
+508;[CH 3 (CH) 2 NH 3 ] F e Cl 4;–;P b c a;;–;–;–;–;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.materresbull.2019.110505;
+509;[(CH 3 ) 3 S]Pb 3 Br 1 0;–;P 21/ n;;DJ;0;0;2.45;3.49;Trimethylsulfonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.7b02594;
+510;[(CH 3 ) 2 S(CH 2 ) 4 S(CH 3 ) 2 ]Pb 3 Br 1 2;–;P c a 21;;–;–;–;2.53;3.78;Butane-1,4-diylbis(dimethylsulfonium);–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.7b02594;
+511;[(CH 3 (CH 2 ) 4 NH 3 ) 2 (CH 3 NH 3 ) 3 ]Pb 4 I 1 3;4;C c;100;else;0.29;0.29;1.86;1.85;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b01327;a
+512;[(CH 3 (CH 2 ) 4 NH 3 ) 2 (CH 3 NH 3 ) 4 ]Pb 5 I 1 6;5;P c;100;else;0.29;0.29;2;1.76;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b01327;a
+513;[(CH 3 (CH 2 ) 5 NH 3 ) 2 (CH 3 NH 3 )]Pb 2 I 7;2;C c;100;else;0.13;0.13;2.3;2.1;Hexylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b01327;a
+514;[(CH 3 (CH 2 ) 5 NH 3 ) 2 (CH 3 NH 3 ) 2 ]Pb 3 I 1 0;3;P c;100;else;0.25;0.25;2.05;1.96;Hexylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b01327;a
+515;[(CH 3 (CH 2 ) 5 NH 3 ) 2 (CH 3 NH 3 ) 3 ]Pb 4 I 1 3;4;C c;100;else;0.24;0.24;1.93;1.85;Hexylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b01327;a
+516;[CH 3 (CH 2 ) 7 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.23;0.24;2.31;–;Heptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+517;[CH 3 (CH 2 ) 7 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.26;–;Heptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+518;[CH 3 (CH 2 ) 7 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.29;–;Heptylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+519;[CH 3 (CH 2 ) 8 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.23;0.24;2.38;–;Octylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+520;[CH 3 (CH 2 ) 8 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.28;–;Octylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+521;[CH 3 (CH 2 ) 8 NH 3 ] 2 Pb I 4;1;C m c a;100;RP;0.5;0.5;2.13;–;Octylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;
+522;[CH 3 (CH 2 ) 9 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.25;0.25;2.35;–;Nonylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+523;[CH 3 (CH 2 ) 9 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.27;–;Nonylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+524;[CH 3 (CH 2 ) 1 0 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.25;0.27;2.39;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+525;[CH 3 (CH 2 ) 1 0 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.39;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+526;[CH 3 (CH 2 ) 1 0 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.39;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+527;[CH 3 (CH 2 ) 1 0 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.28;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+528;[CH 3 (CH 2 ) 1 0 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.28;–;Decylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C0DT01805H;c
+529;[ F C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.29;0.29;2.23;–;4-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00479;a
+530;[ Cl C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C 2/ c;100;else;0.37;0.38;2.32;–;p-chlorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00479;
+531;[ Br C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;C m c a;100;RP;0.49;0.5;2.05;–;p-bromophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.9b00479;
+532;[C 2 H 4 N 3 ] 2 Pb Br 4;1;C 2/ c;100;else;0.14;0.15;2.63;–;1,2,4-triazolium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c01807;
+533;[C 2 H 4 N 3 ] 2 Pb Br 4;1;C 2/ c;100;else;0.13;0.15;2.64;–;1,2,4-triazolium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c01807;
+534;[C 2 H 7 N 2 ] 2 Pb Br 4;1;P 21/ c;110;else;0;0.04;2.72;–;Acetamidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c01807;
+535;[C 2 H 7 N 2 ] 2 Pb Br 4;1;P 21/ c;110;DJ;0;0.02;2.72;–;Acetamidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c01807;
+536;[C 5 H 9 N 5 ]Pb Br 4;–;P b c m;3*3;else;0;0.06;2.65;–;Imidazolium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c01807;
+537;[C 5 H 9 N 5 ]Pb Br 4;–;P b c m;3*3;else;0;0.06;2.64;–;Imidazolium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c01807;
+538;[C 7 H 1 0 N] 2 Pb I 4;1;P b c a;100;else;0.47;0.5;2.27;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b11809;c
+539;[C 7 H 9 F N] 2 Pb I 4;1;P 21/ c;100;else;0.13;0.28;2.24;–;4-fluorophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b11809;c
+540;[C 7 H 9 Cl N] 2 Pb I 4;1;P 21;100;else;0.18;0.19;2.34;–;4-chlorophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b11809;
+541;[C 7 H 9 Br N] 2 Pb I 4;1;P 21;100;else;0.18;0.18;2.33;–;4-bromophenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b11809;
+542;[C 8 H 9 F 3 N] 2 Pb I 4;1;P 21/ c;100;else;0.32;0.33;2.23;–;p-trifluoromethylphenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.0c02909;
+543;[C 9 H 1 4 N] 2 Cu Cl 4;1;C 2;100;–;–;–;–;–;R-β-methylphenethylamine;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.0c02729;
+544;[C 9 H 1 4 N] 2 Cu Cl 4;1;C 2;100;else;0.24;0.49;–;–;S-β-methylphenethylamine;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.0c02729;
+545;(C 8 H 1 2 N) 2 (CH 6 N)Pb 2 I 7;2;P -1;100;else;0.19;0.49;2.06;–;Phenylethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.0c01720;
+546;[C 1 2 H 1 4 N] 2 Pb Br 4;1;C 21/ c;100;DJ;0.01;0.01;2.9;–;1-(1-naphthyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-020-18485-7;
+547;[C 1 2 H 1 4 N] 2 Pb 2 I 6;–;P 21 21 21;1D;DJ;0;0;2.32;–;S-1-(1-naphthyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-020-18485-7;c
+548;[C 8 H 1 2 N] 2 Pb I 4;1;P 21 21 21;100;else;0.28;0.3;2.35;–;1-phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-020-18485-7;b
+549;[C 8 H 1 2 N] 2 Pb I 4;1;P 21 21 21;100;else;0.25;0.28;2.35;–;1-phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-020-18485-7;b
+550;[C 1 2 H 1 4 N] 2 Pb Br 4;1;P 21;100;else;0.15;0.23;2.85;–;S-1-(1-naphthyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-020-18485-7;
+551;[C 8 H 1 2 N] 2 Pb I 4;1;P 21 21 21;100;else;0.27;0.29;2.35;–;R-1-(1-naphthyl)ethylamine;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-020-18485-7;a
+552;[C 1 2 H 1 4 N] 2 Pb Br 4;1;P 21;100;else;0.15;0.23;2.88;–;1-phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-020-18485-7;
+553;[C 1 5 H 2 0 N O 2 ] 2 Pb I 4;1;P b c n;100;else;0;0.5;2.26;–;naphthalene-based organic layers;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-020-0488-2;
+554;[C 1 3 H 1 6 N O 2 ] 2 Pb I 4;1;P b c a;100;RP;0.5;0.5;2.33;–;naphthalene-based organic layers;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-020-0488-2;c
+555;[C 1 4 H 1 8 N O ] 2 Pb I 4;1;P c a 21;100;else;0.06;0.06;2.33;–;naphthalene-based organic layers;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-020-0488-2;c
+556;[C 1 6 H 2 2 N O ] 2 Pb I 4;1;P 21/ c;100;else;0.28;0.32;2.34;–;naphthalene-based organic layers;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-020-0488-2;a
+557;[C 1 7 H 2 4 N O 2 ] 2 Pb I 4;1;P -1;100;else;0.05;0.27;2.49;–;naphthalene-based organic layers;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-020-0488-2;c
+558;[C 9 H 9 Cl 5 N O ] 2 Pb I 4;1;P 21/ c;100;else;0.27;0.45;2.51;–;tetrachloro-1,2-benzoquinone;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-020-0488-2;
+559;[C 8 H 1 4 N 2 ]Cu Cl 4;–;P 21/ c;;–;–;–;–;–;N-phenylethane-1,2-diammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc23ym90;
+560;[C 9 H 1 6 N 2 ] 2 Cu Cl 6;1;P b c a;100;RP;0.5;0.5;–;–;N-benzylethane-1,2-diammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc23ym90;
+561;[CH 3 NH 3 ] 2 Pb( SCN ) 2 I 2;1;P m n 21;100;else;0.24;0.48;2.5;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.0c09251;a
+562;[CH 3 NH 3 ] 2 Pb( SCN ) 2 I 2;1;P m n 21;100;else;0.22;0.48;2.27;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.0c09251;a
+563;[CH 3 NH 3 ] 2 Pb( SCN ) 2 I 2;1;P m m n;100;else;0.19;0.49;2.37;–;Methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.0c09251;
+564;[C 8 H 1 2 N] 2 Sn I 4;1;P n m a;100;DJ;0;0;2.15;–;R-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: https://doi.org/10.1021/jacs.0c03899;
+565;[C 8 H 1 2 N] 2 Sn I 4;1;P 21 21 21;100;DJ;0;0;2.2;–;S-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: https://doi.org/10.1021/jacs.0c03899;
+566;[C 8 H 1 2 N] 2 Sn I 4;1;P 21 21 21;100;DJ;0;0;2.21;–;Rac-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: https://doi.org/10.1021/jacs.0c03899;
+567;[C 6 H 1 2 F 2 N] 2 Pb I 4;1;P 21;100;else;0.37;0.41;2.28;–;4-fluorohexahydroazepine;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03710;a
+568;[C 6 H 1 2 F 2 N] 2 Pb I 4;1;C m c 21;100;else;0.4;0.49;2.14;–;4-fluorohexahydroazepine;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03710;
+569;[C 6 H 1 2 F 2 N] 2 Pb I 4;1;I m m 2;100;RP;0.5;0.5;2.16;–;4-fluorohexahydroazepine;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03710;
+570;[C 6 H 1 2 F 2 N] 2 Pb I 4;1;I-4 m 2;100;RP;0.5;0.5;1.99;–;4-fluorohexahydroazepine;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03710;
+571;[C 4 H 1 3 N 5 ]Pb Br 4;1;P 21/ c;100;else;0.16;0.27;2.74;–;N,N-dimethylbiguanidinium;–;*.dia;*.dia;CIF;doi: 10.31635/ccschem.020.202000484;
+572;(C 2 H 8 N) 2 (C 4 H 1 2 N) 2 Pb 3 I 1 0;3;C m c 21;100;else;0.45;0.49;2.03;–;Butylammonium;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b13587;a
+573;(BA) 2 (EA x MA 1 -x ) 2 Pb 3 I 1 0;3;C c;100;else;0.46;0.48;2.01;–;Butylammonium;Ethylammonium, Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b13587;a
+574;(BA) 2 (EA x MA 1 -x ) 2 Pb 3 I 1 0;3;C c;100;RP;0.48;0.49;1.97;–;Butylammonium;Ethylammonium, Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b13587;a
+575;(BA) 2 (EA) 2 Pb 3 I 1 0;3;C c;100;RP;0.49;0.49;1.88;–;Butylammonium;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b13587;a
+576;PEA 2 Pb I 4;1;C 2/ m;100;else;0.15;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0CE00753F;
+577;PEA 2 Pb I 4;1;P -1;100;else;0.15;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0CE00753F;
+578;PEA 2 MA 2 Pb 3 I 1 0;3;P -1;100;else;0.13;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0CE00753F;
+579;PEA 2 MAPb 2 I 7;2;P -1;100;else;0.14;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0CE00753F;
+580;PEA 2 Pb I 4;1;P -1;100;else;0.15;0.5;–;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0CE00753F;
+581;(BA) 2 (FA)Pb 2 I 7;2;C m c m;100;RP;0.5;0.5;–;–;Butylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03860;a
+582;(BA) 2 (DMA)Pb 2 I 7;2;C m c a;100;RP;0.49;0.5;–;–;Butylammonium;Dimethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03860;
+583;(BA) 2 (GA)Pb 2 I 7;2;C m c m;100;RP;0.49;0.5;–;–;Butylammonium;Guanidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03860;a
+584;(BA) 2 (FA)Pb 2 I 7;2;A m a 2;100;RP;0.5;0.5;–;–;Butylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03860;b
+585;(BA) 2 (DMA)Pb 2 I 7;2;A b a 2;100;RP;0.49;0.5;–;–;Butylammonium;Dimethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03860;b
+586;(BA) 2 (GA)Pb 2 I 7;2;A m a 2;100;RP;0.49;0.5;–;–;Butylammonium;Guanidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c03860;b
+587;(C 5 H 1 1 NH 3 ) 2 (CH 3 NH 2 CH 3 )Pb 2 I 7;2;P 21/ c;100;else;0.31;0.32;–;–;C5H11NH3;Dimethylammonium;*.dia;*.dia;CIF;doi: 10.1039/D0TC03382K;
+588;[C 8 H 1 1 F N] 2 Pb Br 4;1;C m c m;100;else;0.07;0.15;2.76;–;3-fluoro-N-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.jssc.2018.11.012;
+589;[C 5 H 1 0 F 2 N] 2 Pb I 4;1;A b a 2;100;RP;0.48;0.5;2.3;–;4,4-difluoropiperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c00371;b
+590;[C 6 H 1 4 N] 2 Pb Br 4;1;C m c a;100;RP;0.5;0.5;2.7;–;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.201505224;
+591;[C 6 H 1 4 N] 2 Pb I 4;1;C m c a;100;RP;0.5;0.5;2.11;–;Cyclohexylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.201505224;
+592;[C 5 H 1 2 O N] 2 Pb Br 4;1;C m c 21;100;else;0.44;0.46;2.83;–;tetrahydropyranylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b12368;
+593;[C 6 H 1 6 N] 2 Pb I 4;1;C m c 21;100;RP;0.49;0.5;1.98;–;Hexylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C9TA01569H;
+594;[C 7 H 9 F N] 2 Pb Cl 4;1;C m c 21;100;else;0.44;0.46;3.43;–;2-fluorobenzylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b10048;
+595;[C 7 H 1 0 N] 2 Pb Cl 4;1;C m c 21;100;else;0.46;0.48;3.46;–;Phenylmethylammonium;–;*.dia;*.dia;CIF;doi: 10.1515/ncrs-1999-0318;
+596;[C 1 4 H 1 6 N] 2 Pb I 4;1;C m c 21;100;RP;0.49;0.49;2.36;–;2-(4-biphenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C9DT03074C;a
+597;[C 7 H 9 F N] 2 Pb I 4;1;P b c n;100;else;0.34;0.37;2.29;–;4-fluoro-N-methylanilinium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc25phq3;c
+598;[C 8 H 1 1 F N] 2 Pb Br 4;1;P b c n;100;else;0.08;0.17;2.86;–;3-fluoro-N-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.jssc.2018.11.012;
+599;[C 8 H 1 1 Cl N] 2 Pb I 4;1;P b c n;100;else;0.14;0.21;2.29;–;3-chloro-N-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc216rdf;
+600;[C 8 H 1 1 Br N] 2 Pb Cl 4;1;P b c n;100;else;0.13;0.15;3.35;–;3-bromo-N-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc2498b2;
+601;[C 8 H 1 1 Br N] 2 Pb Br 4;1;P b c n;100;else;0.09;0.17;2.73;–;3-bromo-N-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc24986y;
+602;[C 3 H 7 N 2 ] 2 Pb I 4;1;P n m a;100;else;0.31;0.35;2.1;–;2-cyanoethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b817891g;b
+603;[C 5 H 5 Br N] 2 Pb Br 4;1;P n m a;100;DJ;0.01;0.01;2.68;–;3-bromopyridinium;–;*.dia;*.dia;CIF;doi: 10.1039/C6CE01684G;
+604;[C 7 H 9 F N] 2 Pb Cl 4;1;P n m a;100;else;0.31;0.32;3.4;–;4-fluorobenzylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.9b10048;
+605;[C 8 H 2 0 N 2 ]Pb Cl 4;1;P n m a;100;else;0.15;0.15;3.41;–;1,4-cyclohexanedimethylammonium;–;*.dia;*.dia;CIF;doi: 10.1107/S1600536810016818;
+606;[C 2 H 1 0 N 2 ]Pb I 4;1;P b c m;100;else;0.35;0.38;2.56;–;1,2-ethanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0CE00184H;c
+607;[C 4 H 1 2 N] 2 Pb Cl 4;1;P b c a;100;RP;0.49;0.5;2.61;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c00009;
+608;[C 5 H 8 SN] 2 Pb Cl 4;1;P b c a;100;RP;0.5;0.5;3.38;–;2-thiophenemethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C9TC04479E;
+609;[C 5 H 8 SN] 2 Pb Br 4;1;P b c a;100;RP;0.49;0.5;2.84;–;2-thiophenemethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C9TC04479E;
+610;[C 1 0 H 1 6 N] 2 Pb Br 4;1;P b c a;100;else;0.47;0.5;2.85;–;Deca-3,5-diyn-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201809028;
+611;[C 6 H 1 8 N 2 ]Pb Br 4;1;C c;100;else;0.25;0.26;2.44;–;2-Methylpentane-1,5-diammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic980893k;
+612;[C 1 6 H 3 6 N] 2 Pb I 4;1;P c a 21;100;RP;0.48;0.5;2.48;–;Hexadecylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/anie.201812225;b
+613;[C 1 4 H 1 8 O N] 2 Pb I 4;1;P c a 21;100;else;0.06;0.06;2.33;–;4-[(Naphthalen-1-yl)oxy]butyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc22yd8q;c
+614;[C 4 H 1 2 N] 2 Pb Br 4;1;P 21/ c;100;RP;0.49;0.5;2.8;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41563-018-0081-x;
+615;[C 3 H 1 2 N 2 ]Pb Cl 4;1;P 212121;100;else;0.13;0.16;2.64;–;1,3-propyldiammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic980893k;
+616;[C 8 H 1 2 N] 2 Pb I 4;1;P 212121;100;else;0.24;0.28;2.34;–;1-phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/b606987h;c
+617;[C 7 H 9 F N] 2 Pb I 4;1;P n;100;else;0.19;0.47;2.31;–;3-fluoro-N-methylanilinium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc25phv7;b
+618;[C 4 H 1 4 S 2 N 2 ]Pb Cl 4;1;P 21/ c;100;else;0.05;0.4;3.38;–;2,2'-Dithiobis(ethylammonium);–;*.dia;*.dia;CIF;doi: 10.1063/1.5042268;
+619;[C 6 H 1 6 N 2 ]Pb I 4;1;P 21/ c;100;else;0.12;0.22;2.17;–;4-(aminomethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.14102/j.cnki.0254-5861.2011-2298;c
+620;[C 6 H 1 8 N 2 ]Pb Cl 4;1;P 21/ c;100;else;0.03;0.45;3.4;–;1,6-hexanediammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc228b90;
+621;[C 5 H 1 2 O 2 N] 2 Pb Br 4;1;P 21/ n;100;else;0.05;0.45;2.85;–;5-carboxipentylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.202000900;
+622;[C 7 H 9 F N] 2 Pb I 4;1;P 21/ n;100;else;0.16;0.28;2.23;–;4-fluorobenzylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.inoche.2018.09.030;c
+623;[C 5 H 1 2 N] 2 Pb Cl 4;1;C 2/ c;100;else;0.35;0.43;3.32;–;Piperidinium;–;*.dia;*.dia;CIF;doi: 10.1039/C9DT04270A;
+624;[C 2 0 H 2 0 S 4 N] 2 Pb I 4;1;C 2/ c;100;else;0.29;0.48;2.31;–;2-(3''',4'-dimethyl- [2,2':5',2'':5'',2'''- quaterthiophen]-5-yl)ethan-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-019-0354-2;
+625;[C 5 H 1 2 N] 2 Pb Br 4;1;P n m a;100;else;0.36;0.44;2.61;–;Piperidinium;–;*.dia;*.dia;CIF;doi: 10.1039/C9DT04270A;
+626;[C 2 H 7 Cl N] 2 Pb I 4;1;P b n m;100;else;0.14;0.43;2.64;–;2‐chloroethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/cm062380e;
+627;[C 7 H 1 2 N 2 ]Pb Br 4;1;P 21/ n;100;else;0.2;0.35;2.74;–;2-(4-Pyridyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C9TC05357C;
+628;[C 7 H 1 2 N 2 ]Pb I 4;1;P 21/ n;100;else;0.21;0.34;2.16;–;2-(2-Pyridyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/cssc.202000028;c
+629;[C 7 H 1 2 N 2 ]Pb I 4;1;P 21/ n;100;else;0.23;0.29;2.13;–;2-(3-Pyridyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/cssc.202000028;c
+630;[C 7 H 1 2 N 2 ]Pb I 4;1;P 21/ n;100;else;0.23;0.32;2.14;–;2-(4-Pyridyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/cssc.202000028;c
+631;[C 7 H 1 0 N] 2 Pb I 4;1;C c;100;else;0.41;0.49;2.16;–;N-methylanilinium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc25pht6;
+632;FA 2 Pb Br 4;1;P 21/ c;110;–;–;–;2.39;–;Formamidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c00382;
+633;[C 1 1 H 1 2 N] 2 Pb Cl 4;1;P b a m;100;–;–;–;3.31;–;1-(2-Naphthyl)-methylammonium;–;*.dia;*.dia;CIF;doi: 10.1515/ncrs-1999-0319;
+634;[C 8 H 1 2 N] 2 Pb Cl 4;1;P 21/ a;100;else;0.21;0.22;3.17;–;4-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.5517/cc4qxmc;
+635;[C 8 H 1 2 N] 2 Pb Br 4;1;P 21/ a;100;else;0.32;0.33;2.82;–;4-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.5517/cc4qxlb;
+636;[C 8 H 1 2 N] 2 Pb I 4;1;P 21/ a;100;else;0.44;0.44;2.39;–;4-methylbenzylammonium;–;*.dia;*.dia;CIF;doi: 10.5517/cc4qxj8;c
+637;[C 8 H 1 2 O N] 2 Pb I 4;1;P 21/ a;100;RP;0.48;0.5;2.13;–;4-Methoxy-N-methylanilinium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc25phs5;
+638;[C 6 H 7 Cl N] 2 Pb I 4;1;P 21/ c;100;else;0.29;0.33;2.5;–;4-Chloroanilinium;–;*.dia;*.dia;CIF;doi: 10.5517/cc8cc32;
+639;[C 6 H 7 Cl N] 2 Pb I 4;1;P 21/ c;100;else;0.3;0.33;2.37;–;4-Bromoanilinium;–;*.dia;*.dia;CIF;doi: 10.5517/ccs8v84;
+640;[C 8 H 1 0 Cl 2 N] 2 Pb I 4;1;P 21/ c;100;else;0.36;0.37;2.6;–;2-(3,5-Dichlorophenyl)ethyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0QM00118J;
+641;[C 8 H 1 0 Br 2 N] 2 Pb I 4;1;P 21/ c;100;else;0.19;0.19;2.32;–;2-(3,5-Dibromophenyl)ethyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0QM00118J;
+642;[C 1 0 H 1 6 N] 2 Pb I 4;1;P 21/ c;100;else;0.31;0.32;2.32;–;2-(3,5-Dimethylphenyl)ethyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0QM00118J;a
+643;[C 8 H 1 1 F N] 2 Pb I 4;–;C 2/ m;100;else;0;0.49;2.21;–;2-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.0c00037;
+644;[C 8 H 1 1 Cl N] 2 Pb I 4;–;C 2/ m;100;else;0.01;0.5;2.7;–;2-chlorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.0c00037;
+645;[C 8 H 1 1 Br N] 2 Pb I 4;1;P 21;100;else;0.17;0.17;2.34;–;2-bromophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.0c00037;
+646;[C 5 H 1 2 O 2 N] 2 Pb Cl 4;1;P -1;100;else;0.17;0.44;3.27;–;4-carboxibutylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/ejic.202000900;
+647;[C 1 2 H 1 8 S 4 N 2 ]Pb I 4;1;P -1;100;else;0.22;0.34;2.2;–;2-([2,2'-bithiophen]-5-yl)ethyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic034235y;
+648;[C 4 0 H 4 8 N 4 S 1 2 ]Pb 3 I 1 0;1;P n a 21;step-like;–;–;–;2.31;–;5,5'-bis(ammoniumethylsulfanyl)-2,2'-bithiophene;–;*.dia;*.dia;CIF;doi: 10.1021/ic034235y;
+649;[C 3 0 H 3 6 N 3 S 9 ]Bi 2 I 9;1;P 212121;not 2D;–;–;–;2.22;–;2-([2,2'-bithiophen]-5-yl)ethyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1021/ic034235y;
+650;[C 5 H 1 6 PN]Pb Br 4;1;P 21;100;DJ;0;0.01;–;–;(2-Azaniumylethyl)trimethylphosphonium;–;*.dia;*.dia;CIF;doi: 10.1107/S2053229619001712;
+651;[C 5 H 1 1 N 3 ]Pb Br 4;1;С2/ c;100;else;0.03;0.38;2.64;–;4-(2-aminoethyl)imidazolium;–;*.dia;*.dia;CIF;doi: 10.1016/j.jssc.2006.09.023;
+652;[C 5 H 1 1 N 3 ]Pb Br 4;1;P 21/ c;100;else;0.09;0.46;2.68;–;2-(2-aminoethyl)imidazolium;–;*.dia;*.dia;CIF;doi: 10.1039/C9TC05357C;
+653;[C 5 H 1 5 N 2 ]Pb Cl 4;1;P 21/ c;100;else;0;0.36;3.34;–;N-methylethane-1,2-diammonium;–;*.dia;*.dia;CIF;doi: 10.1002/chem.202001178;
+654;[C 6 H 1 6 N 2 ]Pb I 4;1;P 21212;100;DJ;0;0.02;2.21;–;Cyclohexane-1,2-diammonium;–;*.dia;*.dia;CIF;doi: 10.1080/00958972.2020.1737863;
+655;[C 9 H 1 4 O N] 2 Pb I 4;1;P -1;100;else;0.45;0.49;2.23;–;2-(4-Methoxyphenyl)ethyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc25hpq3;c
+656;[C 1 0 H 1 2 S 2 N] 2 Pb I 4;1;P 1;100;else;0.47;0.48;2.21;–;2-([2,2'-bithiophen]-5-yl)ethyl-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.5517/ccdc.csd.cc20hdgd;
+657;[C 2 4 H 2 2 S 4 N] 2 Pb I 4;1;P -1;100;else;0.29;0.5;2.31;–;5,5'''-bis-(aminoethyl)-2,2':5',2'':5'',2'''-quaterthiophene;–;*.dia;*.dia;CIF;doi: 10.1038/s41557-019-0354-2;
+658;[C 5 H 1 6 N 2 ]Pb I 4;1;P b c a;100;else;0.22;0.24;2.07;–;N,N'-dimethylpropane-1,3-diammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C4DT01181C;c
+659;[C 6 H 1 7 N 3 ]Pb I 4;1;P b c a;100;else;0.16;0.16;2.12;–;1-(2-Aminoethyl)piperazinium;–;*.dia;*.dia;CIF;doi: 10.1039/C5DT00687B;c
+660;[C 7 H 1 2 N 2 ]Pb Br 4;1;P b c a;100;else;0.3;0.3;2.67;–;2-(3-Pyridyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/C9TC05357C;
+661;[C 9 H 1 4 N] 2 Pb Br 4;1;P b c a;100;else;0.08;0.08;2.82;–;Phenylpropylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0TC02118K;
+662;[CH 3 NH 2 NH 2 ]Pb Br 4;1;P m n m;100;else;0.16;0.5;2.46;–;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.0c04440;
+663;[CH 3 NH 2 NH 2 ]Pb Br 4;1;P m n m;100;–;–;–;2.47;–;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.0c04440;
+664;[CH 3 NH 2 NH 2 ]Pb Br 4;1;P m n 21;100;else;0.17;0.5;2.67;–;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.0c04440;
+665;[CH 3 NH 2 NH 2 ]Pb Br 4;1;P m n 21;100;else;0.18;0.5;2.73;–;Methylhydrazinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.0c04440;
+666;[H O O C(CH 2 ) 6 NH 3 ] 4 Pb 3 I 1 0;1;P 21;else;else;0.05;0.14;–;–;cis-4-aminocyclohexanecarboxylic acid;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c00391;b
+667;[H O O C(CH 2 ) 6 NH 3 ]Pb I 4;1;C 2/ c;100;else;0.06;0.07;2.31;–;trans-4-aminocyclohexanecarboxylic acid;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c00391;a
+668;(CH 3 (CH 2 ) 5 NH 3 ) 2 (CH 3 NH 3 )Pb 2 Br 7;2;C c;100;else;0.45;0.46;2.75;–;Hexylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01129;
+669;(CH 3 (CH 2 ) 5 NH 3 ) 2 (CH 3 NH 3 )Pb 2 Br 7;2;C 2/ c;100;RP;0.5;0.5;2.61;–;Hexylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01129;
+670;(CH 3 (CH 2 ) 6 NH 3 ) 2 (CH 3 NH 3 )Pb 2 Br 7;2;C c;100;RP;0.5;0.5;2.77;–;Heptylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01129;
+671;(CH 3 (CH 2 ) 7 NH 3 ) 2 (CH 3 NH 3 )Pb 2 Br 7;2;C c;100;RP;0.5;0.5;2.79;–;Octylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01129;
+672;(CH 3 (CH 2 ) 7 NH 3 ) 2 (CH 3 NH 3 )Pb 2 I 7;2;C c;100;else;0.12;0.12;2.28;–;Octylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01129;
+673;[C 8 H 1 1 S 2 (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P 21/ c;else;else;0.02;0.08;–;–;2,2'-bithiophene;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01221;
+674;[C 8 H 1 1 S 2 (CH 2 ) 3 NH 3 ] 2 Pb Br 4;1;P 21/ c;100;else;0.07;0.07;2.8;–;3-([2,2'-bithiophen]-5-yl)propan-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01221;
+675;[C 8 H 1 1 S 2 (CH 2 ) 3 NH 3 ] 2 Pb Cl 4;1;P 21/ c;100;else;0.09;0.09;2.91;–;3-([2,2'-bithiophen]-5-yl)propan-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01221;
+676;[C 8 H 1 1 S 2 (CH 2 ) 3 NH 3 ] 1 2 Pb 9 I 3 0;1;P 21/ c;else;DJ;0;0;–;–;3-([2,2'-bithiophen]-5-yl)propan-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01221;c
+677;[C 8 H 1 1 S 2 (CH 2 ) 3 NH 3 ] 4 Pb 3 I 1 0;1;P 21/ c;else;else;0.09;0.11;–;–;3-([2,2'-bithiophen]-5-yl)propan-1-ammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01221;
+678;[(CH 3 ) 3 CNH 3 ] 2 [CH 3 NH 3 ]Pb 2 Br 7;2;C c;100;else;0.46;0.46;2.76;–;Isobutylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.1c01148;
+679;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 Br 8;2;C c c 2;100;RP;0.5;0.5;2.61;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.1c01148;
+680;[CH 3 (CH 2 ) 4 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 Br 7;2;C c c 2;100;RP;0.5;0.5;2.65;–;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.1c01148;
+681;[NH 3 CH 2 C 6 H 4 F 4 CH 2 NH 3 ] 2 Pb I 4;1;P 21/ c;100;else;0.21;0.21;2.39;–;2,3,5,6-tetrafluoro-1,4-phenylenedimethanammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.nanolett.1c01505;a
+682;[C 5 H 1 2 N O ] 2 Pb Br 4;1;P 1;100;else;0;0.21;2.88;–;tetrahydropyranylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsaelm.0c00852;
+683;(C O O H(CH 2 )NH 2 )Pb I 2;1;R3;else;else;0;0.29;–;–;(2-carboxy)methylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.0c16402;
+684;(C O O H(CH 2 ) 3 NH 3 ) 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.15;–;(2-carboxy)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.0c16402;c
+685;(C O O H(CH 2 ) 7 NH 3 ) 2 Pb I 4;1;P 21/ c;100;else;0.25;0.27;2.29;–;(2-carboxy)propylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.0c16402;a
+686;(C O O H(CH 2 ) 9 NH 3 ) 2 Pb I 4;1;P 2(1)/ c;100;else;0.14;0.16;2.25;–;(2-carboxy)butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.0c16402;
+687;[C 2 2 H 2 0 N 3 S 4 ] 2 Pb I 4;1;P -1;100;else;0.34;0.47;2.3;–;2-[5-[4-methyl-5-[7-(3-methylthiophen-2-yl)-2,1,3-benzothiadiazol-4-yl]thiophen-2-yl]thiophen-2-yl]ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c00872;c
+688;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P b c a;100;else;0.47;0.5;2.3;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c02022;c
+689;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P b c a;100;else;0.47;0.5;2.29;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c02022;c
+690;[CH 3 (CH 2 ) 3 NH 3 ] 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.28;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c02022;c
+691;[CH 3 (CH 2 ) 3 NH 3 ] 2 [CH 3 NH 3 ]Pb 2 I 7;2;P 42/ m n m;100;RP;0.5;0.5;2.04;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1039/D1TC01291F;
+692;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.2;0.49;2.24;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c02022;
+693;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -2;100;else;0.15;0.5;2.23;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c02022;
+694;[C 6 H 5 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -3;100;else;0.12;0.5;2.22;–;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c02022;
+695;[(CH 3 ) 3 N(CH 2 ) 2 NH 3 ]Pb Br 4;1;P 21;100;DJ;0;0;2.52;–;2-trimethylammoniumethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c12907;
+696;[(CH 3 ) 3 P(CH 2 ) 2 NH 3 ]Pb Br 4;1;P 22;100;DJ;0;0;–;–;(2-aminoethyl)trimethylphosphanium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c12907;
+697;[(CH 3 ) 3 P(CH 2 ) 2 NH 3 ]Pb Br 4;1;P 23;100;DJ;0;0;–;–;(2-aminoethyl)trimethylphosphanium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c12907;
+698;[CH 3 O C 6 H 4 (CH 2 ) 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.45;0.49;2.23;–;Methoxyphenethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0DT04165C;c
+699;[CH 3 O (C 2 H 4 )(CH 2 ) 2 NH 3 ] 2 Pb Cl 4;1;P 21/ c;100;else;0.12;0.13;3.33;–;2-(6-ethoxy-1,2,4,5-tetrazin-3-yl)oxyethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0MH01904F;
+700;[CH 3 O (CH 2 ) 3 NH 3 ] 2 Pb Br 4;1;P b c a;100;RP;0.5;0.5;2.87;–;γ-Methoxypropylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D0QI01446J;
+701;[ 3 - F C 6 H 4 CH 2 CH 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.22;0.49;2.11;–;2-(3-fluorophenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1QM00329A;
+702;[NH 3 CH 2 C 6 F 4 CH 2 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.21;0.21;2.28;–;2,3,5,6-tetrafluoro-1,4-benzenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1TA01447A;a
+703;[(CH 3 ) 2 NHC 6 H 4 NH(CH 3 ) 2 ] 2 Pb Br 4;1;P 21/ c;100;else;0.22;0.33;2.76;–;N,N,N',N'-Tetramethyl-p-phenylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c00624;
+704;[HSC(NH 2 ) 2 ][CH 3 NH 3 ] 2 Pb 2 I 7;2;C m m m;100;else;0;0.49;2.09;–;Protonated thiourea cation;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c03386;
+705;[HSC(NH 2 ) 2 ][CH 3 NH 3 ] 3 Pb 3 I 1 0;3;I m m a;100;else;0;0.49;2.05;–;Protonated thiourea cation;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c03386;
+706;[HSC(NH 2 ) 2 ][CH 3 NH 3 ]Pb I 4;1;I m m a;100;else;0;0.48;2.15;–;Protonated thiourea cation;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c03386;
+707;[HSC(NH 2 ) 2 ]Pb 2 I 5;–;P 21/ m;else;else;0;0.09;–;–;Protonated thiourea cation;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c03386;c
+708;[C 2 1 H 2 1 N 6 ] 2 [Pb 1 9 I 4 4 ];–;P -1;else;DJ;0;0;–;–;Trimethyl-2,4,6-tris(4-pyridyl)-1,3,5-triazine;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.0c03665;c
+709;[C 5 H 1 0 N(CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ c;100;else;0.24;0.27;2.17;–;2-(aminoethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c01292;b
+710;[C 5 H 1 0 N(CH 2 ) 2 NH 3 ]Pb I 4;1;P 21/ n;100;else;0.24;0.25;2.15;–;2-(aminoethyl)piperidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c01292;b
+711;[CH 3 (CH 2 ) 4 NH 3 ] 2 [CH 3 NH 3 ] 4 Pb 5 I 1 6;6;C c;100;else;0.28;0.29;1.83;–;Pentylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c11328;a
+712;[C O O HC 6 H 1 0 CH 2 NH 3 ] 2 [CH 3 CH 2 NH 3 ]Pb 3 Br 1 0;3;P m;100;else;0.07;0.47;–;–;4-Aminomethyl-1-cyclohexanecarboxylate;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c12513;
+713;[C O O HC 6 H 1 0 CH 2 NH 3 ] 2 [CH 3 CH 2 NH 3 ]Pb 3 Br 1 0;3;P m m n;100;else;0.11;0.5;2.63;–;4-Aminomethyl-1-cyclohexanecarboxylate;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c12513;
+714;[C O O HC 6 H 1 0 CH 2 NH 3 ] 2 [CH 3 CH 2 NH 3 ]Pb 3 Br 1 0;3;P m m n;100;else;0.11;0.5;2.65;–;4-Aminomethyl-1-cyclohexanecarboxylate;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c12513;
+715;[C O O HC 6 H 1 0 CH 2 NH 3 ] 2 [CH 3 CH 2 NH 3 ]Pb 3 Br 1 0;3;C m c m;100;else;0.12;0.5;2.62;–;4-Aminomethyl-1-cyclohexanecarboxylate;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c12513;
+716;[ Br (CH 2 ) 3 NH 3 ] 2 [CH(NH 2 ) 2 ]Pb 2 Br 7;2;C m c 21;100;RP;0.5;0.5;2.6;–;3-bromopropylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c00459;
+717;[ Br (CH 2 ) 3 NH 3 ] 2 [CH(NH 2 ) 2 ]Pb 2 Br 7;2;C m c m;100;RP;0.49;0.49;2.58;–;3-bromopropylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c00459;
+718;[ Br (CH 2 ) 3 NH 3 ] 2 [CH(NH 2 ) 2 ]Pb 2 Br 7;2;C m c m;100;RP;0.5;0.5;2.52;–;3-bromopropylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c00459;
+719;[ Br (CH 2 ) 3 NH 3 ] 2 [CH(NH 2 ) 2 ]Pb 2 Br 7;2;P m c 21;100;RP;0.5;0.5;2.51;–;3-bromopropylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c00459;
+720;[NH 3 C 6 H 4 NH 3 ][CH(NH 2 ) 2 ] 2 Pb 3 I 1 0;3;P m c 21;100;DJ;0;0;–;–;m-phenylenediammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c03687;a
+721;[NH 3 C 6 H 4 NH 3 ] 2 Pb I 4;1;C c;100;else;0.11;0.12;2.17;–;m-phenylenediammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c03687;a
+722;[NH 3 C 6 H 4 NH 3 ][CH(NH 2 ) 2 ]Pb 2 I 7;2;P c;100;DJ;0;0;2;–;m-phenylenediammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c03687;a
+723;[ I C 4 8 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;C 2/ m;100;else;0.15;0.15;1.88;–;4-iodobutylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1039/D0SC06112C;
+724;[ I C 4 8 NH 3 ] 2 [CH 3 NH 3 ] 2 Pb 3 I 1 0;3;P c;100;else;0.32;0.32;1.93;–;4-iodobutylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1039/D0SC06112C;
+725;(C 2 H 6 N 2 ,CH 3 NH 3 )Pb I 4;1;P c a 21;100;else;0;0.48;2.2;–;Acetamidinium;Methylammonium;*.dia;*.dia;CIF;doi: submitted;
+726;[C 9 H 1 4 N] 2 Pb Br 4;1;P 212121;100;else;0;0.05;2.89;–;Phenyl-2-methylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06841;
+727;[C 9 H 1 4 N, C 3 H 1 0 N]Pb Br 4;1;P 21;100;else;0.05;0.1;2.8;–;Phenyl-2-methylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06841;
+728;[C 9 H 1 4 N, C 4 H 1 2 N]Pb Br 4;1;P 21;100;else;0.46;0.49;2.82;–;Phenyl-2-methylethylammonium, Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06841;
+729;[C 9 H 1 4 N, C 4 H 1 2 N]Pb Br 4;1;P 21;100;else;0.46;0.49;2.84;–;Phenyl-2-methylethylammonium, Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06841;
+730;[C 9 H 1 4 N, C 3 H 1 0 N]Pb Br 4;1;P 21;100;else;0.05;0.1;2.85;–;Phenyl-2-methylethylammonium, Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06841;
+731;[C 1 0 H 1 3 N 2 ]Pb 2 Br 6;–;С2/ c;1D;else;0.08;0.15;2.51;3.34;N,N,N',N'-tetramethyl-1,6-hexanediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c00624;
+732;[C 1 0 H 1 8 N 2 ]Pb Br 4;1;P 21/ m;100;else;0.22;0.33;2.76;2.93;N,N,N',N'-tetramethyl-1,4-phenylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c00624;
+733;I 4 Sn· 2 (C 2 2 H 2 0 NS 5 )·C 7 H 8;1;P 21/ c;100;else;0;0.47;2.1;–;Thienothiophene;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06337;
+734;I 4 Sn· 2 (C 2 2 H 2 0 NS 5 )·CH 2 Cl 2;1;C c;100;else;0;0.31;2.1;–;Thienothiophene;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06337;
+735;2 (C 2 2 H 2 0 NS 5 )· I 4 Sn·C 6 H 5 Cl;1;P 21/ c;100;else;0;0.45;2.11;–;Thienothiophene;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06337;
+736;2 (C 2 4 H 2 0 NS 6 )· I 4 Sn;1;C 2/ c;100;else;0.39;0.45;2.16;1.96;Dithienothiophene;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06337;
+737;2 (C 2 2 H 2 0 NS 5 )· I 4 Sn· 0 . 5 (CH Cl 3 );–;P 21/ c;100;else;0;0.42;2.11;–;Thienothiophene;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c06337;
+738;Cs 2 Pb I 2 Cl 2;1;C 2/ m;100;–;–;–;2.39;–;Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.0c11730;
+739;[ 4 - Cl - 2 - F BA]Pb Br 4;1;I4/ m m m;100;RP;0.5;0.5;2.7;–;4-Chloro-2-fluorobenzylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.jssc.2021.122409;
+740;[ 4 - Cl - 2 - F BA]Pb Br 4;1;P n m a;100;else;0.39;0.42;2.87;–;4-Chloro-2-fluorobenzylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.jssc.2021.122409;
+741;[C 6 H 5 N 2 ]Pb Br 3;–;P -1;post-prvsk;else;0.06;0.47;2.65;–;Cyanopyridinium;–;*.dia;*.dia;CIF;doi: 10.1002/adfm.202102338;
+742;[C 6 H 5 N 2 ]Pb Br 3;–;C 2/ m;post-prvsk;else;0.07;0.5;2.63;–;Cyanopyridinium;–;*.dia;*.dia;CIF;doi: 10.1002/adfm.202102338;
+743;[NH 3 C 4 H 8 NH 3 ] 2 Pb I 4;1;P -1;100;else;0.13;0.27;2.18;–;1,4-butanediammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adom.202101423;c
+744;[R- 4 - Cl -MBA] 2 Pb Br 4;–;P 212121;100;else;0.04;0.08;2.91;–;R-4-Cl-MBA;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-021-25149-7;
+745;[S- 1 -Me-HA] 2 Pb I 4;–;P 212121;100;else;0.16;0.23;2.31;–;(S)-(+)-1-methylhexylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-021-25149-7;c
+746;[S- 4 -N O 2 -MBA] 2 Pb Br 4 ∙ H 2 O;–;P 21;100;else;0.04;0.06;2.88;–;(S)-α-methyl-4-nitrobenzylamonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-021-25149-7;
+747;[S- 2 -Me-BuA] 2 Pb Br 4;–;P 21;100;else;0.36;0.37;2.86;–;(S)-(−)-2-methylbutylammonium;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-021-25149-7;
+748;[S- 4 -NH 3 -MBA]Pb I 4;–;P 212121;100;else;0.27;0.31;2.2;–;S-4-NH3-MBA;–;*.dia;*.dia;CIF;doi: 10.1038/s41467-021-25149-7;c
+749;( 3 Me-PEA) 2 Pb I 4;1;P -1;100;else;0.08;0.47;2.15;–;2-(3-Methylphenyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c01642;
+750;[PDAPb I 4 ] 1 5 •[PDA I 2 ];1;P -1;100;else;0.13;0.27;2.22;–;1,3-propanediammonium;–;*.dia;*.dia;CIF;doi: 10.1126/science.abj2637;c
+751;(BDA)Pb I 4;–;C c;non-prvsk;–;–;–;2.15;–;1,4-butanediammonium;–;*.dia;*.dia;CIF;doi: 10.1126/science.abj2637;
+752;(DMePDA)Pb I 4;1;P 21/ c;100;else;0.01;0.31;2.09;–;N,N-dimethylpropane-1,3-diammonium;–;*.dia;*.dia;CIF;doi: 10.1126/science.abj2637;a
+753;(i-BA) 2 (DMA)Pb 2 Br 7;2;I4/ m m m;100;RP;0.5;0.5;2.75;–;Isobutylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1CC05705G;
+754;(PDMA)Pb I 4;1;P 21/ c;100;DJ;0.02;0.02;2.3;–;1,4-phenylenedimethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/smll.202104287;a
+755;(PDMA)(MA)Pb 2 I 7;2;P 4/ m b m;100;DJ;0;0;1.98;–;1,4-phenylenedimethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/smll.202104287;
+756;(PDMA)(MA)Pb 2 I 7;2;I4/ m c m;100;DJ;0;0;1.93;–;1,4-phenylenedimethanammonium;–;*.dia;*.dia;CIF;doi: 10.1002/smll.202104287;
+757;( F PP)b I 3;–;P 212121;1D;DJ;0;0;2.18;–;3-fluoropyrrolidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.2c00099;
+758;(D F P) 2 Pb I 4;1;P b c n;100;else;0.28;0.29;2.22;–;3,3-difluoropyrrolidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.2c00099;c
+759;(D F P) 2 Pb I 4;1;P 212121;100;DJ;0;0;2.16;–;3-fluoropyrrolidinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.2c00099;c
+760;Cs 2 Pb( SCN ) 2 Br 2;1;P m m n;100;–;–;–;2.54;–;Caesium;–;*.dia;*.dia;CIF;doi: 10.1002/adma.202104782;
+761;( 3 AMPY)(FA)Pb 2 I 7;2;P 21/ c;100;else;0.22;0.22;1.96;–;3-(aminomethyl)pyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/acsami.2c00806;a
+762;(PTEA) 2 Pb I 4;1;C m c 21;100;else;0.46;0.47;2.36;–;1-(p-tolyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.2c00094;a
+763;[(R)MPA] 2 Pb I 4;1;P 1;100;else;0.36;0.41;2.13;–;β-methylphenethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.2c00094;
+764;[(S)-MPA] 2 Pb I 4;1;P 1;100;else;0.41;0.41;2.07;–;β-methylphenethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.2c00094;
+765;I 3 Pb·C 1 1 H 9 N 2 S 2 ·C 3 H 7 N O;–;P -1;1D;DJ;0;0;2.42;–;4-(5-(thiophen-2-yl)thiophen-2-yl)-1H-imidazolium, DMF;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;c
+766;C 1 2 H 9 NS 2 · I 3 Pb·C 4 H 6 O 2;–;P -1;1D;DJ;0;0;2.3;–;4-(5-(thiophen-2-yl)thiophen-2-yl)-1H-imidazolium, GBL;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;
+767;C 1 1 H 9 N 2 S 2 · I 3 Pb· 2 (C 2 H 6 O S);–;P 21/ c;1D;else;0.04;0.16;2.3;–;4-(5-(thiophen-2-yl)thiophen-2-yl)-1H-imidazolium, DMSO;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;b
+768;C 1 5 H 1 1 N 2 S 2 · I 3 Pb·C 4 H 9 N O;–;P 21/ c;1D;DJ;0;0;2.26;–;5-(5-(thiophen-2-yl)thiophen-2-yl)-1H-benzo[d]imidazolium, DMAC;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;
+769;C 1 5 H 1 0 N 2 S 2 ·C 1 5 H 1 1 N 2 S 2 · I 3 Pb·C 4 H 6 O 2;–;P c a 21;1D;DJ;0;0;2.47;–;5-(5-(thiophen-2-yl)thiophen-2-yl)-1H-benzo[d]imidazolium, GBL;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;b
+770;C 1 5 H 1 1 N 2 S 2 · I 3 Pb;–;P 21/ c;1D;DJ;0;0;2.17;–;5-(5-(thiophen-2-yl)thiophen-2-yl)-1H-benzo[d]imidazolium;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;
+771;I 1 0 Pb 3 · 4 (C 1 0 H 1 3 N 2 S 2 );–;P c;non-prvsk;else;0.07;0.11;2.23;–;2-(5-(thiophen-2-yl)thiophen-2-yl)acetamidinium;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;a
+772;I 7 Sn 2 · 3 (C 1 0 H 1 3 N 2 S 2 );–;P -1;non-prvsk;else;0.02;0.07;2.01;–;2-(5-(thiophen-2-yl)thiophen-2-yl)acetamidinium;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;
+773;I 4 Sn·C 1 5 H 1 1 N 2 S 2 ·C 1 5 H 1 3 N 2 S 2 ·C 6 H 4 Cl 2;1;P 212121;100;else;0.36;0.39;2.06;–;2-(5-(thiophen-2-yl)thiophen-2-yl)acetamidinium, DCB;–;*.dia;*.dia;CIF;doi: 10.1002/sstr.202100173;
+774;R-[BPEA] 2 Pb I 4;1;C 2;100;else;0.19;0.37;2.33;–;R-1-(4-bromophenyl)ethylaminium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c11101;c
+775;S-[BPEA] 2 Pb I 4;1;C 2;100;else;0.14;0.37;2.33;–;S-1-(4-bromophenyl)ethylaminium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c11101;c
+776;S-[BPEA] 2 Pb I 4;1;P 21/ c;100;else;0.22;0.23;2.4;–;S-1-(4-bromophenyl)ethylaminium;–;*.dia;*.dia;CIF;doi: 10.1021/acsnano.1c11101;a
+777;BA 2 EA 2 Pb 3 I 1 0;3;C m c 21;100;else;0.45;0.48;2.07;–;Butylammonium;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1016/j.fmre.2022.01.015;a
+778;BA 2 EA 2 Pb 3 I 1 0;3;I4/ m m m;100;RP;0.5;0.5;2.26;–;Butylammonium;Ethylammonium;*.dia;*.dia;CIF;doi: 10.1016/j.fmre.2022.01.015;
+779;(S-NEA)Pb I 3;–;P -1;1D;DJ;0;0;2.22;–;1-(2-naphthyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03622;
+780;(R-NEA)Pb I 3;–;P 212121;1D;DJ;0;0;2.32;–;1-(2-naphthyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03622;c
+781;(rac-NEA) 2 Pb I 4;–;P 212121;1D;DJ;0;0;2.32;–;1-(2-naphthyl)ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03622;c
+782;Cs 2 [C(NH 2 ) 3 ]Pb 2 Br 7;2;C m m m;100;–;–;–;2.56;–;Guanidinium;Cs;*.dia;*.dia;CIF;doi: 10.1039/D1TC05699A;
+783;( 3 AP)Pb I 4;1;P -1;100;else;0.3;0.4;3.33;–;3-amidinopyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03832;c
+784;( 3 AP)Pb Br 4;1;C 2/ c;100;else;0.4;0.44;2.66;–;3-amidinopyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03832;
+785;( 3 AP)Pb Cl 4;1;C 2/ c;100;else;0.42;0.44;2.11;–;3-amidinopyridinium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03832;
+786;(PA)Pb I 4;1;P 21/ c;100;RP;0.49;0.5;2.29;–;Propylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;a
+787;(AA) 2 MA 2 Pb 3 I 1 0;3;P 21/ c;100;RP;0.5;0.5;2.01;–;Allylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;a
+788;( I dPA) 2 MA 2 Pb 3 I 1 0;3;P 21/ c;100;else;0.43;0.43;2.04;–;2-iodopropylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;
+789;[(AA) x ( I dPA) 1 – x ] 2 MAPb 2 I 7;2;C c;100;RP;0.49;0.49;2.02;–;Allylammonium;2-iodopropylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;a
+790;( I dPA) 2 Pb I 4;1;P 21/ c;100;else;0.47;0.47;2.07;–;2-iodopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;
+791;( I dPA)Pb I 3;–;P 21/ c;1D;DJ;0;0;2.28;–;2-iodopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;c
+792;(AA) 2 MA 2 Pb 3 I 1 0;3;P 21/ c;100;else;0.14;0.14;1.99;–;Allylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;a
+793;(AA) 1 2 (MA) 2 Pb 9 I 3 2;2;P -1;step-like;DJ;0;0;2.01;–;Allylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;
+794;(AA) 3 Pb 2 I 7;1;P 212121;step-like;else;0.02;0.12;2.08;–;Allylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;c
+795;( I dPA) 2 MAPb 2 I 7;2;C 2/ c;100;else;0.43;0.43;2.12;–;2-iodopropylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;
+796;( I dPA) 6 Pb 3 I 1 2;–;P -1;0D;–;–;–;2.1;–;2-iodopropylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.2c00571;
+797;(R)-C 6 H 1 6 N 2 Pb Br 4;1;P 21212;100;else;0;0.03;2.8;–;(1R, 2R)-(-)-1,2-Cyclohexanediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1TC05836C;
+798;(S)-C 6 H 1 6 N 2 Pb Br 4;1;P 21212;100;else;0;0.03;2.81;–;(1S, 2S)-(+)-1,2-Diaminocyclohexane;–;*.dia;*.dia;CIF;doi: 10.1039/D1TC05836C;
+799;(C 1 1 H 2 3 NH 3 ) 2 Pb I 4;1;P b c a;100;RP;0.48;0.5;2.33;–;Undecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;c
+800;(C 1 1 H 2 3 NH 3 ) 2 Pb I 4;1;P 212121;100;else;0.28;0.36;2.39;–;Undecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;c
+801;(C 1 1 H 2 3 NH 3 ) 2 Pb I 4;1;P b c a;100;RP;0.49;0.5;2.3;–;Undecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;c
+802;(C 1 3 H 2 7 NH 3 ) 2 Pb I 4;1;P 21/ c;100;else;0.13;0.13;2.45;–;Tridecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;a
+803;(C 1 3 H 2 7 NH 3 ) 2 Pb I 4;1;P 21/ c;100;RP;0.48;0.49;2.51;–;Tridecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;a
+804;(C 1 3 H 2 7 NH 3 ) 2 Pb I 4;1;P 212121;100;else;0.09;0.22;2.4;–;Tridecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;c
+805;(C 1 5 H 3 1 NH 3 ) 2 Pb I 4;1;P 21/ c;100;else;0.08;0.08;2.51;–;Pentadecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;a
+806;(C 1 5 H 3 1 NH 3 ) 2 Pb I 4;1;P 212121;100;else;0.14;0.22;2.42;–;Pentadecylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c03132;c
+807;(C 8 H 1 1 F N) 2 Pb Br 4;1;C 2/ c;100;else;0.29;0.31;2.9;–;4-fluorophenethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1CE01431E;
+808;(MACH) 2 Pb I 4;1;P 21/ c;100;else;0.36;0.36;2.31;–;Cyclohexanemethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.2c00183;a
+809;(BA) 2 Pb Br 4;1;P b c a;100;RP;0.49;0.5;2.83;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.2c00183;
+810;(BA) 2 Pb Br 4;1;C m c e;100;RP;0.5;0.5;2.46;–;Butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.2c00183;
+811;(MACH) 2 Pb I 4;1;C m c e;100;RP;0.5;0.5;2.15;–;Cyclohexanemethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.2c00183;
+812;[(CH 3 ) 2 CH(CH 2 ) 2 NH 3 ] 2 (CH 3 NH 3 ) 2 Pb 3 Cl 1 0;3;P m c 21;100;else;0.42;0.43;3.34;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1016/j.matt.2021.10.020;
+813;[(CH 3 ) 2 CH(CH 2 ) 2 NH 3 ] 2 (CH 3 NH 3 ) 2 Pb 3 Cl 1 0;3;I4/ m m m;100;RP;0.5;0.5;3.27;–;Butylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1016/j.matt.2021.10.020;
+814;[C 4 H 1 2 N]Pb 2 Br 5;–;P 21;2D mixed-sharing;DJ;0;0;2.57;–;tert-butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03815;
+815;(C 4 H 1 2 N) 2 Pb Br 2 I 2;1;P 21/ c;100;RP;0.49;0.49;2.32;–;tert-butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03815;
+816;(C 4 H 1 2 N)Pb I 3;–;P 21;1D;DJ;0;0;2.01;–;tert-butylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.1c03815;
+817;( I A) 2 (EA) 2 Pb 3 Br 1 0;3;C m c 21;100;else;0.47;0.47;2.61;–;Isoamylammonium, Ethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/adfm.202103012;
+818;(PREA) 2 Pb I 4;1;P 21/ c;100;else;0.22;0.23;2.35;–;Ethylammonium pyrene;–;*.dia;*.dia;CIF;doi: 10.1126/science.abd4860;a
+819;(HCya) 7 Pb 4 I 1 5;–;P 21/ c;step-like;DJ;0;0;2.11;–;Cysteamine;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.1c01106;
+820;(HCya) 2 Pb I 4;1;P n m a;100;else;0.14;0.41;2.16;–;Tioethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c09515;b
+821;(PMA) 2 Pb I 4;–;P -1;1D;DJ;0;0;2.4;–;[1,1'-biphenyl]-4,4'-dicarbonitrile;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c09515;c
+822;( F PP)Pb I 4;–;P c c a;100;DJ;0;0;2.12;–;2-fluoro-[1,1'-biphenyl]-4,4'-dicarbonitrile;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c09515;b
+823;( F PEA) 2 (MA)Pb 2 I 7;2;C c;100;else;0.26;0.27;2.24;–;4-fluorophenethylammonium;Methylammonium;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.2c01435;a
+824;(MPA) 2 Pb I 4;1;P 212121;100;else;0.28;0.31;2.35;–;β-methylphenethylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.apmt.2022.101550;b
+825;(MPA)Pb I 3;–;P 212121;1D;DJ;0;0;2.24;–;β-methylphenethylammonium;–;*.dia;*.dia;CIF;doi: 10.1016/j.apmt.2022.101550;c
+826;(TMA)Pb I 3;–;R-3;1D;else;0.01;0.03;1.95;–;Trimethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.jpclett.2c01045;
+827;(FA) 3 (HEA) 2 Pb 3 I 1 1;–;P 2;110;DJ;0;0;2.21;–;2-hydroxyethylammonium;Formamidinium;*.dia;*.dia;CIF;doi: 10.1021/acs.chemmater.2c00130;c
+828;( 1 , 4 BDA)Pb 2 Br 6;–;P 21/ c;perovskitoid;–;–;–;2.57;–;1,4-butanediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c11803;
+829;(TMEA)Pb 2 Br 6;–;P m a 2;perovskitoid;–;–;–;2.45;–;(2-Aminoethyl)trimethylammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c11803;
+830;(NMPA)Pb 2 Br 6;–;P b a 2;perovskitoid;–;–;–;2.63;–;N,N'-dimethyl-1,3-propanediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c11803;
+831;(DMEA)Pb 2 Br 6;–;P b c a;perovskitoid;–;–;–;2.58;–;N,N-dimethylethylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1021/jacs.1c11803;
+832;Cs 2 Pb Br 5;–;I4/ m c m;non-prvsk;–;–;–;2.4;–;Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.cgd.2c00526;
+833;Cs 2 Pb(N O 3 ) 2 Br 2;–;I41/ a m d;RP-like;–;–;–;2.53;–;Caesium;–;*.dia;*.dia;CIF;doi: 10.1021/acs.inorgchem.2c00047;
+834;[C 6 H 1 0 N 2 ]Pb 2 Cl 6;–;P 21/ c;2D layered;DJ;0.01;0.02;3.32;–;p-phenylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D2TC01472F;
+835;[(Me 3 )DAB(Me 2 )] 4 Pb 5 Br 1 8;–;P -421с;non-prvsk;–;–;–;2.64;–;Benzidine;–;*.dia;*.dia;CIF;doi: 10.1016/j.inoche.2022.109339;
+836;(H 2 MeTMBMeH 2 )(Pb Br 3 ) 2;–;C 2/ c;1D;else;0.19;0.29;2.68;–;Trans-2,5-dimethyl piperazine;–;*.dia;*.dia;CIF;doi: 10.1016/j.inoche.2022.109339;
+837;[C 7 N 2 H 1 8 ]Pb Br 4;1;P b c a;100;else;0.2;0.23;2.67;–;Propylpiperazinium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.202100334;
+838;[C 4 N 2 H 1 4 ]Pb Br 4;–;P b c a;step-like;else;0.03;0.1;2.53;–;N,N-dimethyl-1,2-ethanediamine;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.202100334;
+839;[C 5 N 2 H 1 7 ]Pb Cl 4;–;P 21/ c;110;else;0.03;0.05;3.3;–;N,N,N',N'-tetramethylethylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.202100334;
+840;[C 1 6 N 4 H 4 8 ]Pb 3 Cl 1 0;–;C m c e;non-prvsk;else;0.04;0.08;3.27;–;Tetramethylammonium;–;*.dia;*.dia;CIF;doi: 10.1002/zaac.202100334;
+841;[C 3 N 6 H 8 ]Pb Br 4;–;P 21/ c;110;else;0.11;0.26;–;–;Melamine;–;*.dia;*.dia;CIF;doi: 10.1002/ange.202202746;
+842;[ 1 , 3 -C 6 H 1 0 N 2 ]Pb Br 4;1;C 2/ c;100;else;0;0.5;–;–;1,3-phenylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D2TC02113G;
+843;[ 1 , 3 -C 8 H 1 4 N 2 ] 2 Pb Br 6;–;P 21/ c;0D;DJ;0;0;–;–;1,3-xylylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D2TC02113G;
+844;[ 1 , 4 -C 6 H 1 0 N 2 ]Pb Br 4;1;P -1;100;else;0.45;0.45;–;–;1,4-phenylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D2TC02113G;
+845;[ 1 , 4 -C 8 H 1 4 N 2 ]Pb Br 4;1;P 21/ c;100;DJ;0;0;–;–;1,4-xylylenediammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D2TC02113G;
+846;[C 6 H 4 CH 2 CH 2 NH 3 ] 2 Ge Br 4;1;P -1;100;else;0.23;0.15;–;3.01;Phenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1TC02394B;
+847;[ Br C 6 H 4 CH 2 CH 2 NH 3 ] 2 Ge Br 4;1;P n a 21;100;else;0.5;0.45;–;2.95;2-bromophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1TC02394B;
+848;[ F C 6 H 4 CH 2 CH 2 NH 3 ] 2 Ge Br 4;1;P 21/ c ( P 21/ n );100;else;0.05;0.45;–;2.91;2-fluorophenylethylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1TC02394B;
+849;[C 6 H 4 CH 2 NH 3 ] 2 Ge Br 4;1;P -1;100;else;0.49;0;–;2.89;Benzylammonium;–;*.dia;*.dia;CIF;doi: 10.1039/D1TC02394B;
