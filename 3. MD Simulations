@@ -1,0 +1,8 @@
+Get access to DelftBlue: https://doc.dhpc.tudelft.nl/delftblue/Accounting-and-shares/
+Use EduVPN to access DelftBlue. Login on OpenOndemand in your browser: https://login.delftblue.tudelft.nl/. 
+Copy the "simulation_files" from the pipeline to your open ondemand. 
+Open DelftBlue in your terminal and go to the folder of perovskite you want to use. 
+type "sbatch run.sh" to submit your job.
+Use squeue to check the queue
+Submit more jobs if needed.
+When finished, you can start analyzing the data. 
